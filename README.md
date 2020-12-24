@@ -6,3 +6,4 @@
 - [Financial Mathematics - Pasquale Cirillo](https://www.youtube.com/watch?v=JyoeWaNtWLM&list=PLgCR5H4IzggF_w7l1WSYMaoDSZNNkk9gE)
 - [Fundamentals of Statistics - Philippe Rigollet](https://www.edx.org/course/fundamentals-of-statistics)
 - [Probability The Science of Uncertainty and Data -John Tsitsiklis](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
+- [Python for Computational Finance - Yves Hilpisch](https://home.tpq.io/certificates/compfin/)
