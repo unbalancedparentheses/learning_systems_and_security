@@ -8,6 +8,9 @@
 - [Python for Computational Finance - Yves Hilpisch](https://home.tpq.io/certificates/compfin/)
 
 # Mathematics
+- [Measure theory - The Bright Side Of Mathematics](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)
+- [Functional Analysis - The Bright Side Of Mathematics](https://www.youtube.com/watch?v=yDdxFBcvSGw&list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)
+- [Distributions theory - The Bright Side Of Mathematics](https://www.youtube.com/watch?v=gwVEEUg8PBY&list=PLBh2i93oe2qsbptdcvFlowCl51EX_a3nB)
 
 # Probability and Statistics
 - [Probability The Science of Uncertainty and Data -John Tsitsiklis](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
