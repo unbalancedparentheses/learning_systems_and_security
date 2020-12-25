@@ -1,4 +1,4 @@
-# Only the best learning resources: books, posts, papers and MOOCs
+# The best learning resources
 
 # Mathematics
 - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
