@@ -11,11 +11,16 @@
 # Probability and Statistics
 - [Probability The Science of Uncertainty and Data -John Tsitsiklis](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
 - [Fundamentals of Statistics - Philippe Rigollet](https://www.edx.org/course/fundamentals-of-statistics)
+- [Random Walks - Santa Fe Institute](https://www.complexityexplorer.org/courses/46-random-walks)
 
 # Machine Learning
 - [Introduction to Statistical Learning Series - Robert Tibshirani and Trevor Hastie](https://www.youtube.com/watch?v=5N9V07EIfIg&list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [Part 2: Deep Learning from the Foundations](https://course19.fast.ai/part2)
+
+# Complexity
+- [Nonlinear Dynamics: Mathematical and Computational Approaches - Santa Fe Institute](https://www.complexityexplorer.org/courses/115-nonlinear-dynamics-mathematical-and-computational-approaches)
+- [Introduction to Dynamical Systems and Chaos - Santa Fe Institute](https://www.complexityexplorer.org/courses/105-introduction-to-dynamical-systems-and-chaos)
 
 # Finance
 - [Risk Management - Pasquale Cirillo](https://www.youtube.com/playlist?list=PLgCR5H4IzggGihtfhTtA0fxGiBU8DMWHq)
