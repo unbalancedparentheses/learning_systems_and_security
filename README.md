@@ -36,6 +36,8 @@
 
 ## Wargames
 - [Over The Wire](https://overthewire.org/wargames/)
+- [Smash the stack](http://smashthestack.org/)
+- [Exploit exercises](https://exploit-exercises.lains.space/)
 
 # Distributed Systems
 - [Distributed Systems lecture series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
