@@ -25,6 +25,7 @@
 - [Introduction to Dynamical Systems and Chaos - Santa Fe Institute](https://www.complexityexplorer.org/courses/105-introduction-to-dynamical-systems-and-chaos)
 
 # Finance
+- [DX Analytics](https://github.com/yhilpisch/dx)
 - [Risk Management - Pasquale Cirillo](https://www.youtube.com/playlist?list=PLgCR5H4IzggGihtfhTtA0fxGiBU8DMWHq)
 - [Economics of Money and Banking - Perry Mehrling](https://www.coursera.org/learn/money-banking)
 - [Quantitative Risk Management - Pasquale Cirillo](https://www.youtube.com/watch?v=-E4QMeCNvIE&list=PLgCR5H4IzggHyHw8dalrVHqHAqZfmTeWa)
