@@ -44,3 +44,6 @@
 # Distributed Systems
 - [Distributed Systems - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - [PingCAP Talent Plan](https://github.com/pingcap/talent-plan)
+
+# Software
+- [Foundations of Software Engineering](https://cmu-313.github.io/)
