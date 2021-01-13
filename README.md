@@ -47,3 +47,4 @@
 
 # Software
 - [Foundations of Software Engineering](https://cmu-313.github.io/)
+- [Introductory Microcontroller Programming - Peter Alley](https://web.wpi.edu/Pubs/ETD/Available/etd-042811-095908/unrestricted/alley.pdf)
