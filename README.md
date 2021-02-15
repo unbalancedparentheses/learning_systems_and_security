@@ -33,9 +33,11 @@
 - [Python for Computational Finance - Yves Hilpisch](https://home.tpq.io/certificates/compfin/)
 
 # Security
+- [Reverse Engineering for Beginners](https://yurichev.com/club/)
 - [Exploit development - Sam Bowne](https://samsclass.info/127/127_S18.shtml)
 - [Binary Exploitation and Memory Corruption - LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [exploit.education](https://exploit.education/)
+
 ## Wargames
 - [Over The Wire](https://overthewire.org/wargames/)
 - [Smash the stack](http://smashthestack.org/)
