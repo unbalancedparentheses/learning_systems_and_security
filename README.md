@@ -12,6 +12,7 @@
 - [Introduction to Applied Linear Algebra - Stephen Boyd](https://www.youtube.com/watch?v=oR6G1MUMveE&list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9)
 - [Linear Algebra - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRjxJ_sMtJ02geqw_-vuB7O)
 - [Fourier Analysis - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
+- [Data-Driven Dynamical Systems Overview - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR6DzT17-MM1GHLkuYVjhyt)
 
 # Probability and Statistics
 - [Probability The Science of Uncertainty and Data -John Tsitsiklis](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
