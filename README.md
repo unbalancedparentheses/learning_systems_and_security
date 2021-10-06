@@ -19,7 +19,7 @@
 ## Group theory
 - [Visual Group Theory](https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
 
-# Probability and Statistics
+## Probability and Statistics
 - [Probability The Science of Uncertainty and Data -John Tsitsiklis](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
 - [Fundamentals of Statistics - Philippe Rigollet](https://www.edx.org/course/fundamentals-of-statistics)
 - [Random Walks - Santa Fe Institute](https://www.complexityexplorer.org/courses/46-random-walks)
