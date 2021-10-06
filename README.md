@@ -1,6 +1,7 @@
 # The best learning resources
 
 # Mathematics
+- [Introduction to Computational Thinking](https://computationalthinking.mit.edu/Spring21/)
 - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 - [Algebraic Topology: a beginner's course - N J Wildberger](https://www.youtube.com/playlist?list=PL41FDABC6AA085E78)
 
