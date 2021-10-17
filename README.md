@@ -24,6 +24,7 @@
 - [Probability The Science of Uncertainty and Data -John Tsitsiklis](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
 - [Fundamentals of Statistics - Philippe Rigollet](https://www.edx.org/course/fundamentals-of-statistics)
 - [Random Walks - Santa Fe Institute](https://www.complexityexplorer.org/courses/46-random-walks)
+- [The Logic of Science by E.T. Jaynes](https://www.youtube.com/watch?v=rfKS69cIwHc&list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
 
 ## Machine Learning and Deep Learning
 - [Introduction to Statistical Learning Series - Robert Tibshirani and Trevor Hastie](https://www.youtube.com/watch?v=5N9V07EIfIg&list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V)
