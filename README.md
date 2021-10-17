@@ -57,11 +57,15 @@
 - [Exploit exercises](https://exploit-exercises.lains.space/)
 
 # Rust
-[Crust of Rust: Lifetime Annotations](https://www.youtube.com/watch?v=rAl-9HwD858)
+- [Crust of Rust: Lifetime Annotations](https://www.youtube.com/watch?v=rAl-9HwD858)
 
 # Distributed Systems
 - [Distributed Systems - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - [PingCAP Talent Plan](https://github.com/pingcap/talent-plan)
+
+# Blockchain
+
+- [Foundations of Blockchains](https://timroughgarden.github.io/fob21/)
 
 # Software
 - [Foundations of Software Engineering](https://cmu-313.github.io/)
