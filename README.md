@@ -46,6 +46,10 @@
 - [Financial Mathematics - Pasquale Cirillo](https://www.youtube.com/watch?v=JyoeWaNtWLM&list=PLgCR5H4IzggF_w7l1WSYMaoDSZNNkk9gE)
 - [Python for Computational Finance - Yves Hilpisch](https://home.tpq.io/certificates/compfin/)
 
+# Blockchain and Crypto
+- [Foundations of Blockchains](https://timroughgarden.github.io/fob21/)
+- [DeFi MOOC](https://www.youtube.com/channel/UCB67PxhB5LAWEbI4etQS7aw/playlists)
+
 # Security
 - [Reverse Engineering for Beginners](https://yurichev.com/club/)
 - [Exploit development - Sam Bowne](https://samsclass.info/127/127_S18.shtml)
@@ -63,10 +67,6 @@
 # Distributed Systems
 - [Distributed Systems - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - [PingCAP Talent Plan](https://github.com/pingcap/talent-plan)
-
-# Blockchain
-
-- [Foundations of Blockchains](https://timroughgarden.github.io/fob21/)
 
 # Software
 - [Foundations of Software Engineering](https://cmu-313.github.io/)
