@@ -39,6 +39,8 @@
 - [Parallel Computing and Scientific Machine Learning - MIT 18.337J](https://github.com/mitmath/18337)
 
 # Finance
+
+- [Bridgewater Associates](https://www.youtube.com/c/Bridgewater/videos)
 - [DX Analytics](https://github.com/yhilpisch/dx)
 - [Risk Management - Pasquale Cirillo](https://www.youtube.com/playlist?list=PLgCR5H4IzggGihtfhTtA0fxGiBU8DMWHq)
 - [Economics of Money and Banking - Perry Mehrling](https://www.coursera.org/learn/money-banking)
