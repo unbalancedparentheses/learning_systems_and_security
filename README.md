@@ -64,6 +64,10 @@
 # Rust
 - [Crust of Rust: Lifetime Annotations](https://www.youtube.com/watch?v=rAl-9HwD858)
 
+# Operating Systems
+
+- [The little book about OS development](https://littleosbook.github.io/)
+
 # Distributed Systems
 - [Distributed Systems - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - [PingCAP Talent Plan](https://github.com/pingcap/talent-plan)
