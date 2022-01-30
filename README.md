@@ -77,3 +77,7 @@
 # Software
 - [Foundations of Software Engineering](https://cmu-313.github.io/)
 - [Introductory Microcontroller Programming - Peter Alley](https://web.wpi.edu/Pubs/ETD/Available/etd-042811-095908/unrestricted/alley.pdf)
+
+# Game Programming
+- [COMP4300 - Dave Churchill](https://www.youtube.com/watch?v=LpEdZbUdDe4&list=PL_xRyXins848jkwC9Coy7B4N5XTOnQZzz)
+- [GamesWithGabe](https://www.youtube.com/c/GamesWithGabe/playlists)
