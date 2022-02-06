@@ -95,3 +95,6 @@
 # Game Programming
 - [COMP4300 - Dave Churchill](https://www.youtube.com/watch?v=LpEdZbUdDe4&list=PL_xRyXins848jkwC9Coy7B4N5XTOnQZzz)
 - [GamesWithGabe](https://www.youtube.com/c/GamesWithGabe/playlists)
+
+# Geopolitics
+- [Ray Dalio: Money, Power, and the Collapse of Empires](https://youtu.be/TISMidxdZoc)
