@@ -52,6 +52,7 @@
 - [Demystifying Rebalancing Premium and Extending Portfolio Theory in the Process - Vladislav Dubikovsky, Gabriele Susinno](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2927791)
 - [Rough Volatility Literature](https://sites.google.com/site/roughvol/home/risks-1)
 - [Radical Complexity - Jean-Philippe Bouchaud](https://arxiv.org/abs/2103.09692)
+- [Buy Rough, Sell Smooth - Paul Glasserman, Pu He](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301669)
 
 ## Volatility
 - [Fragile Markets — Understanding the dynamic of a Flash Crash - Harel Jacobson](https://volquant.medium.com/fragile-markets-understanding-the-dynamic-of-a-flash-crash-e86fbc8b4e6c)
@@ -68,6 +69,9 @@
 # Blockchain and Crypto
 - [Foundations of Blockchains](https://timroughgarden.github.io/fob21/)
 - [DeFi MOOC](https://www.youtube.com/channel/UCB67PxhB5LAWEbI4etQS7aw/playlists)
+
+## Papers
+- [A Note on Cryptocurrency Stabilisation: Seigniorage Shares - Robert Sams](https://github.com/rmsams/stablecoins/blob/master/paper.pdf)
 
 # Security
 - [Reverse Engineering for Beginners](https://yurichev.com/club/)
