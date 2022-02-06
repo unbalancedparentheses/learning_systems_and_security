@@ -48,6 +48,20 @@
 - [Financial Mathematics - Pasquale Cirillo](https://www.youtube.com/watch?v=JyoeWaNtWLM&list=PLgCR5H4IzggF_w7l1WSYMaoDSZNNkk9gE)
 - [Python for Computational Finance - Yves Hilpisch](https://home.tpq.io/certificates/compfin/)
 
+## Volatility
+- [Fragile Markets — Understanding the dynamic of a Flash Crash - Harel Jacobson](https://volquant.medium.com/fragile-markets-understanding-the-dynamic-of-a-flash-crash-e86fbc8b4e6c)
+- [Liquidity, Volatility, and Information Asymmetry - Harel Jacobson](https://volquant.medium.com/liquidity-volatility-and-information-asymmetry-c7eb52dd3a4c)
+- [So You Want to Trade Options — Volatility Trading 101 - Harel Jacobson](https://volquant.medium.com/so-you-want-to-trade-options-volatility-trading-101-b96bccbd467b)
+- [Delta Hedging made simple (sort of…) - Harel Jacobson](https://volquant.medium.com/delta-hedging-made-simple-sort-of-34441d1d1db8)
+- [Volatility Smile and Delta Hedging (Part 1) — Getting intimate with the vol surface - Harel Jacobson](https://volquant.medium.com/volatility-smile-and-delta-hedging-part-1-getting-intimate-with-the-vol-surface-7bdcafaf8bdf)
+- [Turbocharging Derivatives — Variance, Convexity, and Everything in Between - Harel Jacobson](https://volquant.medium.com/turbocharging-derivatives-variance-convexity-and-everything-between-3988741664d4)
+- [Trading Volatility Roughness — Rethinking Statistical Arbitrage - Harel Jacobson](https://volquant.medium.com/trading-volatility-roughness-rethinking-statistical-arbitrage-41a204c93b6d)
+- [A Brief History of Volatility Models - Harel Jacobson](https://volquant.medium.com/a-brief-history-of-volatility-models-cc0bbefe8b90)
+- [Radical Complexity - Jean-Philippe Bouchaud](https://arxiv.org/abs/2103.09692)
+- [A Story of Liquidity, Volatility, and Returns - Nope, it's Lily](https://nope-its-lily.medium.com/a-story-of-liquidity-volatility-and-returns-754e0019c2d0)
+- [A brief history of volatility models - Harel Jacobson](https://volquant.medium.com/a-brief-history-of-volatility-models-cc0bbefe8b90)
+- [Rough Volatility Literature](https://sites.google.com/site/roughvol/home/risks-1)
+-
 # Blockchain and Crypto
 - [Foundations of Blockchains](https://timroughgarden.github.io/fob21/)
 - [DeFi MOOC](https://www.youtube.com/channel/UCB67PxhB5LAWEbI4etQS7aw/playlists)
