@@ -55,6 +55,7 @@
 - [Buy Rough, Sell Smooth - Paul Glasserman, Pu He](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301669)
 
 ## Volatility
+- [Rough volatility - Jim Gatheral](https://youtu.be/gW073Tnx7CE)
 - [Fragile Markets — Understanding the dynamic of a Flash Crash - Harel Jacobson](https://volquant.medium.com/fragile-markets-understanding-the-dynamic-of-a-flash-crash-e86fbc8b4e6c)
 - [Liquidity, Volatility, and Information Asymmetry - Harel Jacobson](https://volquant.medium.com/liquidity-volatility-and-information-asymmetry-c7eb52dd3a4c)
 - [So You Want to Trade Options — Volatility Trading 101 - Harel Jacobson](https://volquant.medium.com/so-you-want-to-trade-options-volatility-trading-101-b96bccbd467b)
