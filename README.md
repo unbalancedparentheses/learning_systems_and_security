@@ -39,7 +39,6 @@
 - [Parallel Computing and Scientific Machine Learning - MIT 18.337J](https://github.com/mitmath/18337)
 
 # Finance
-
 - [Bridgewater Associates](https://www.youtube.com/c/Bridgewater/videos)
 - [DX Analytics](https://github.com/yhilpisch/dx)
 - [Risk Management - Pasquale Cirillo](https://www.youtube.com/playlist?list=PLgCR5H4IzggGihtfhTtA0fxGiBU8DMWHq)
@@ -66,6 +65,9 @@
 - [A Brief History of Volatility Models - Harel Jacobson](https://volquant.medium.com/a-brief-history-of-volatility-models-cc0bbefe8b90)
 - [A Story of Liquidity, Volatility, and Returns - Nope, it's Lily](https://nope-its-lily.medium.com/a-story-of-liquidity-volatility-and-returns-754e0019c2d0)
 - [A brief history of volatility models - Harel Jacobson](https://volquant.medium.com/a-brief-history-of-volatility-models-cc0bbefe8b90)
+
+# Monetarism
+- [Bagehot was a Shadow Banker: Shadow Banking, Central Banking, and the Future of Global Finance - Perry Mehrling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2232016)
 
 # Blockchain and Crypto
 - [Foundations of Blockchains](https://timroughgarden.github.io/fob21/)
