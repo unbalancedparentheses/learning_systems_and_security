@@ -8,6 +8,7 @@
 - [Algebraic Topology: a beginner's course - N J Wildberger](https://www.youtube.com/playlist?list=PL41FDABC6AA085E78)
 
 ## Algebra
+- [Visual Group Theory - Matthew Macauley](https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
 - [Rings and modules - Richard E. Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj52XDLrmvrFDgwcf6XOm2TEE)
 - [Categories for the idle mathematician - Richard E. Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj51F9XZ_Ka4bLnQoxTdMx0AL)
 
@@ -29,9 +30,6 @@
 ## Complex analysis and Fourrier
 - [Complex analysis - Richard E. Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj537_iYA5QrvwhvMlpkJ1yGN)
 - [Fourier Analysis - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
-
-## Group theory
-- [Visual Group Theory - Matthew Macauley](https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
 
 ## Probability and Statistics
 - [Probability The Science of Uncertainty and Data -John Tsitsiklis](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
