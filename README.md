@@ -51,6 +51,9 @@
 ## Topology
 - [Algebraic Topology: a beginner's course - N J Wildberger](https://www.youtube.com/playlist?list=PL41FDABC6AA085E78)
 
+## Geometry
+- [Visual Differential Geometry and Forms: A Mathematical Drama in Five Acts - Tristan Needham](https://www.vdgf.space/)
+
 # Finance
 - [Bridgewater Associates](https://www.youtube.com/c/Bridgewater/videos)
 - [DX Analytics](https://github.com/yhilpisch/dx)
