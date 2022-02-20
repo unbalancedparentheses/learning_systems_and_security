@@ -95,6 +95,9 @@
 - [Binary Exploitation and Memory Corruption - LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [exploit.education](https://exploit.education/)
 
+## Cryptography
+- [Introduction to Cryptography - Christof Paar](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
+
 ## Wargames
 - [Over The Wire](https://overthewire.org/wargames/)
 - [Smash the stack](http://smashthestack.org/)
