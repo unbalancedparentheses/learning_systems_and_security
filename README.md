@@ -5,6 +5,14 @@
 - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 - [Algebraic Topology: a beginner's course - N J Wildberger](https://www.youtube.com/playlist?list=PL41FDABC6AA085E78)
 
+## Algebra
+- [Rings and modules - Richard E. Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj52XDLrmvrFDgwcf6XOm2TEE)
+- [Categories for the idle mathematician - Richard E. Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj51F9XZ_Ka4bLnQoxTdMx0AL)
+
+## Number Theory
+- [Introduction to number theory - Richard E. Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8)
+- [Theory of numbers - Richard E. Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj52Qf7lc3HHvHRdIysxEcj1H)
+
 ## Linear Algebra
 - [Essence of linear algebra - 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Linear Algebra - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRjxJ_sMtJ02geqw_-vuB7O)
@@ -16,6 +24,9 @@
 - [Functional Analysis - The Bright Side Of Mathematics](https://www.youtube.com/watch?v=yDdxFBcvSGw&list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)
 - [Distributions theory - The Bright Side Of Mathematics](https://www.youtube.com/watch?v=gwVEEUg8PBY&list=PLBh2i93oe2qsbptdcvFlowCl51EX_a3nB)
 - [Fourier Analysis - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
+
+## Complex analysis
+- [Complex analysis](https://www.youtube.com/playlist?list=PL8yHsr3EFj537_iYA5QrvwhvMlpkJ1yGN)
 
 ## Group theory
 - [Visual Group Theory](https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
