@@ -95,6 +95,46 @@
 - [A Story of Liquidity, Volatility, and Returns - Nope, it's Lily](https://nope-its-lily.medium.com/a-story-of-liquidity-volatility-and-returns-754e0019c2d0)
 - [A brief history of volatility models - Harel Jacobson](https://volquant.medium.com/a-brief-history-of-volatility-models-cc0bbefe8b90)
 
+# math_self_study
+
+Book: “Understanding Analysis” by Stephen Abbott.
+Videos: Lectures by Francis Su (https://www.youtube.com/playlist?list...)
+
+LINEAR ALGEBRA
+
+Book: “Linear Algebra Done Right” by Sheldon Axler
+Videos: Sheldon Axler’s Playlist
+(https://www.youtube.com/playlist?list...)
+
+POINT SET TOPOLOGY
+
+Online Notes with Problems: MAT327 Course Notes (http://www.math.toronto.edu/ivan/mat3...)
+
+COMPLEX ANALYSIS
+
+Intro Book: “Visual Complex Functions: an Introduction with Phase Portraits” by Elias Wegert
+More Technical Book: “Complex Analysis” by Serge Lang
+Videos: Wesleyan University Playlist (https://www.youtube.com/playlist?list...)
+
+GROUP THEORY 
+
+Book: “Topics in Algebra” by Herstein (Chapter 2)
+Videos: Lectures by Benedict Gross (https://www.youtube.com/playlist?list...)
+
+GALOIS THEORY
+
+Notes by Tom Leinster: https://www.maths.ed.ac.uk/~tl/gt/gt.pdf
+
+DIFFERENTIAL GEOMETRY
+
+Book: Introduction to Differentiable Manifolds and Riemannian Geometry by Boothby
+
+ALGEBRAIC TOPOLOGY
+
+Book: Algebraic Topology by Allen Hatcher (available for free on his website: https://pi.math.cornell.edu/~hatcher/...)
+Videos: Lectures by Pierre Albin (https://www.youtube.com/playlist?list...)
+
+
 # Money and Monetarism
 - [Money - Perry Mehrling](https://youtu.be/f49T53oKIw8)
 - [What is Money, Anyway? - Lyn Alden](https://www.lynalden.com/what-is-money/)
