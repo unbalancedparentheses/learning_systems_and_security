@@ -1,6 +1,9 @@
 # The best learning resources
 
+
+
 # Mathematics
+- [The two cultures of mathematics](https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf)
 - [Introduction to Computational Thinking -  Alan Edelman, David P. Sanders and Charles E. Leiserson](https://computationalthinking.mit.edu/Spring21/)
 - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 
@@ -53,6 +56,16 @@
 
 ## Geometry
 - [Visual Differential Geometry and Forms: A Mathematical Drama in Five Acts - Tristan Needham](https://www.vdgf.space/)
+
+
+## Dynamical systems theory and Chaos
+- [More is different - Anderson](https://t.co/g0vE10UvyA?amp=1)
+- [What is complexity? Remarks on simplicity and complexity - Gell-Man](https://onlinelibrary.wiley.com/doi/abs/10.1002/cplx.6130010105)
+- [Numerical Evidence That the Motion of Pluto Is Chaotic - Gerald Jay Sussman, Jack Wisdom](https://web.mit.edu/wisdom/www/pluto-chaos.pdf)
+- [Deterministic nonperiodic Flow - Edward Lorenz](https://journals.ametsoc.org/doi/pdf/10.1175/1520-0469%281963%29020%3C0130%3ADNF%3E2.0.CO%3B2)
+- [Intermittent transition to turbulence in dissipative dynamical systems - Yves Pomeau, Paul Manneville](https://link.springer.com/article/10.1007%2FBF01197757)
+- [Roads to turbulence in dissipative dynamical systems - Eckmann](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.53.643)
+
 
 # Finance
 - [Bridgewater Associates](https://www.youtube.com/c/Bridgewater/videos)
