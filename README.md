@@ -82,7 +82,9 @@
 - [A Story of Liquidity, Volatility, and Returns - Nope, it's Lily](https://nope-its-lily.medium.com/a-story-of-liquidity-volatility-and-returns-754e0019c2d0)
 - [A brief history of volatility models - Harel Jacobson](https://volquant.medium.com/a-brief-history-of-volatility-models-cc0bbefe8b90)
 
-# Monetarism
+# Money and Monetarism
+- [Money - Perry Mehrling](https://youtu.be/f49T53oKIw8)
+- [What is Money, Anyway? - Lyn Alden](https://www.lynalden.com/what-is-money/)
 - [Bagehot was a Shadow Banker: Shadow Banking, Central Banking, and the Future of Global Finance - Perry Mehrling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2232016)
 
 # Blockchain and Crypto
