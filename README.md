@@ -1,7 +1,5 @@
 # The best learning resources
 
-
-
 # Mathematics
 - [The two cultures of mathematics](https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf)
 - [Introduction to Computational Thinking -  Alan Edelman, David P. Sanders and Charles E. Leiserson](https://computationalthinking.mit.edu/Spring21/)
