@@ -6,6 +6,7 @@
 - [Learn Blockchain](https://github.com/unbalancedparentheses/learn_blockchain)
 - [Learn Distributed Systems](https://github.com/unbalancedparentheses/learn_distributed_systems)
 - [Learn Hacking](https://github.com/unbalancedparentheses/learn_hacking)
+- [Learn Compilers](https://github.com/unbalancedparentheses/learn_compilers)
 
 # Mathematics
 - [The two cultures of mathematics](https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf)
