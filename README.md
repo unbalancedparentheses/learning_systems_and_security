@@ -1,5 +1,22 @@
 # The best learning resources
 
+## projects and ideas
+- lambda calculus
+- p2p
+- compiler for QBE / LLVM
+- Hindley–Milner type system / W Algorithm
+- bittorrent client
+- proof generation
+- dht
+- trees: merkle tree, lsm
+- consensus algorithms: raft
+- crdts
+- snarks / starks
+- use american fuzzy lop
+- symbolic execution
+- tla+
+
+
 # unbalancedparentheses
 
 - [Learn Cryptography](https://github.com/unbalancedparentheses/learn_cryptography)
