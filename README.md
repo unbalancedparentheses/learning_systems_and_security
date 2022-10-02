@@ -16,15 +16,6 @@
 - symbolic execution
 - tla+
 
-
-# unbalancedparentheses
-
-- [Learn Cryptography](https://github.com/unbalancedparentheses/learn_cryptography)
-- [Learn Blockchain](https://github.com/unbalancedparentheses/learn_blockchain)
-- [Learn Distributed Systems](https://github.com/unbalancedparentheses/learn_distributed_systems)
-- [Learn Hacking](https://github.com/unbalancedparentheses/learn_hacking)
-- [Learn Compilers](https://github.com/unbalancedparentheses/learn_compilers)
-
 # Hacking
 # Learn Hacking
 
