@@ -16,7 +16,6 @@
 - symbolic execution
 - tla+
 
-
 # unbalancedparentheses
 
 - [Learn Cryptography](https://github.com/unbalancedparentheses/learn_cryptography)
@@ -24,6 +23,10 @@
 - [Learn Distributed Systems](https://github.com/unbalancedparentheses/learn_distributed_systems)
 - [Learn Hacking](https://github.com/unbalancedparentheses/learn_hacking)
 - [Learn Compilers](https://github.com/unbalancedparentheses/learn_compilers)
+
+# Computer Science
+## Compilers
+- [CS143 Compilers](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
 
 # Mathematics
 - [The two cultures of mathematics](https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf)
