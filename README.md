@@ -16,6 +16,7 @@
 - symbolic execution
 - tla+
 
+
 # unbalancedparentheses
 
 - [Learn Cryptography](https://github.com/unbalancedparentheses/learn_cryptography)
@@ -23,6 +24,150 @@
 - [Learn Distributed Systems](https://github.com/unbalancedparentheses/learn_distributed_systems)
 - [Learn Hacking](https://github.com/unbalancedparentheses/learn_hacking)
 - [Learn Compilers](https://github.com/unbalancedparentheses/learn_compilers)
+
+# Hacking
+# Learn Hacking
+
+https://github.com/gerasdf/InsecureProgramming
+
+* Exploit development
+
+Aleph One's "Smashing the stack for fun and profit"
+https://insecure.org/stf/smashstack.html
+
+https://exploit.education/protostar/stack-zero/
+
+Hacking, the Art of Exploitation (Jon Erikson)
+
+The Shellcoders Handbook (Anley, Heasman, Lindner and Richarte)
+
+Gray Hat Hacking The Ethical Hacker's Handbook, Fourth Edition
+
+https://github.com/cirosantilli/x86-bare-metal-examples
+
+The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities (Volume 1 of 2) 1st Edición
+
+https://github.com/cirosantilli/x86-bare-metal-examples
+
+* Ordenar
+
+    Hacking: The Art Of Exploitation by Jon Erickson 87
+
+    A Bug Hunter’s Diary: A Guided Tour Through the Wilds of Software Security by Tobias Klein 41
+
+    The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities by Mark Dowd, John McDonald, Justin Schuh 41
+
+    The IDA Pro Book: The Unofficial Guide to the World’s Most Popular Disassembler by Chris Eagle 24
+
+    The Shellcoder’s Handbook: Discovering and Exploiting Security Holes by Chris Anley , John Heasman, Felix Lindner , Gerardo Richarte 32
+
+    Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation by Bruce Dang, Alexandre Gazet, Elias Bachaalany 48
+
+    https://www.corelan.be/ 652 Fantastic Exploit Development tutorials
+
+    http://www.fuzzysecurity.com/ 355 More Great tutorials
+
+    http://opensecuritytraining.info/ 366 Free courses with lots of content
+
+    http://www.securitytube.net/ 250 The Megaprimers are awesome
+
+@0x00pf’s Reverse Engineering 101 60
+
+
+- https://labs.integrity.pt/articles/from-0-day-to-exploit-buffer-overflow-in-belkin-n750-cve-2014-1635/
+
+- https://web.archive.org/web/20121110045053/http://www.violentpython.org/wordpress/?
+
+- http://shell-storm.org/blog/A-binary-analysis-count-me-if-you-can/
+
+- https://samsclass.info/
+
+- https://blog.skullsecurity.org/
+
+- https://wiki.skullsecurity.org/Assembly
+
+- https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
+
+- https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
+
+- https://github.com/justinsteven/dostackbufferoverflowgood
+
+- http://smashthestack.org/wargames.html
+
+- https://blog.skullsecurity.org/category/ctfs
+
+- https://beginners.re/
+
+- https://github.com/RPISEC/MBE
+
+- https://www.reddit.com/r/AskNetsec/comments/5i73db/path_to_exploit_developer/db61ken/
+
+- https://overthewire.org/wargames/leviathan/
+
+- https://overthewire.org/wargames/bandit/
+
+- http://opensecuritytraining.info/LifeOfBinaries.html
+
+- http://opensecuritytraining.info/IntroX86.html
+
+- http://www.myne-us.com/2010/08/from-0x90-to-0x4c454554-journey-into.html
+
+- https://www.reddit.com/r/AskNetsec/comments/5i73db/path_to_exploit_developer/db61ken/
+
+- https://www.sans.org/event/sans-europe-pen-test-special-2020/course/advanced-exploit-development-penetration-testers
+
+- https://github.com/tylerha97/awesome-reversing
+
+- http://www.pentest.guru/index.php/2016/01/28/best-books-tutorials-and-courses-to-learn-about-exploit-development/
+
+- http://security.cs.rpi.edu/courses/binexp-spring2015/
+
+- http://opensecuritytraining.info/Exploits1.html
+
+- https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
+
+- http://opensecuritytraining.info/Exploits2.html
+
+- https://github.com/demi6od/Smashing_The_Browser
+
+- HackerSploit https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q
+
+- https://samsclass.info/127/127_F19.shtml
+
+- https://github.com/r0hi7/BinExp
+
+- https://insecure.org/stf/smashstack.html
+
+- http://opensecuritytraining.info/
+
+- https://portswigger.net/web-security
+
+- https://www.nand2tetris.org/
+
+- http://pwnadventure.com/
+
+- https://github.com/guyinatuxedo/nightmare
+
+- https://sourcery.pwnadventure.com/
+
+- https://microcorruption.com/login
+
+- https://guyinatuxedo.github.io/
+
+- https://exploit-exercises.lains.space/
+
+- https://ropemporium.com/
+
+- https://0x0539.net/
+
+- https://exploit.education/
+
+- https://pwnable.xyz/
+
+- https://github.com/Dor1s/libfuzzer-workshop
+
+- https://www.hackthebox.eu/individuals
+
 
 # Computer Science
 # Learning Distributed Systems 
@@ -185,6 +330,34 @@ Proving Liveness Properties of Concurrent Programs
 
 ## Compilers
 - [CS143 Compilers](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
+# Learn Compilers
+
+https://cs3110.github.io/textbook/cover.html
+
+https://github.com/thizanne/tiger
+https://www.cis.upenn.edu/~bcpierce/tapl/
+
+https://github.com/ljedrz/lambda_calculus
+
+https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/
+
+https://mykolav.github.io/coollang-2020-fs/
+
+https://volya.xyz/posts/toy-compiler/
+
+https://cs3110.github.io/textbook/chapters/interp/typecheck.html
+
+* [How I wrote my own "proper" programming language - Mukul Rathi](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/)
+* [Introduction to Compilers and Language Design - Douglas Thain](http://compilerbook.org)
+* [Beautiful Racket - Matthew Flatt](https://beautifulracket.com)
+* [Crafting interpreters - Robert Nystrom](https://craftinginterpreters.com)
+* [Engineering a Compiler - Keith D. Cooper, Linda Torczon](https://www.goodreads.com/en/book/show/1997607.Engineering_a_Compiler)
+
+https://plzoo.andrej.com
+https://github.com/andrejbauer/plzoo/
+https://github.com/lurk-lang/lurk-rs
+
+
 
 # Learn Crytography
 
