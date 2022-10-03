@@ -514,6 +514,14 @@ ALGEBRAIC TOPOLOGY
 Book: Algebraic Topology by Allen Hatcher (available for free on his website: https://pi.math.cornell.edu/~hatcher/...)
 Videos: Lectures by Pierre Albin (https://www.youtube.com/playlist?list...)
 
+Book: “Understanding Analysis” by Stephen Abbott.
+Videos: Lectures by Francis Su (https://www.youtube.com/playlist?list...)
+
+LINEAR ALGEBRA
+
+Book: “Linear Algebra Done Right” by Sheldon Axler
+Videos: Sheldon Axler’s Playlist
+
 # Finance
 - [Bridgewater Associates](https://www.youtube.com/c/Bridgewater/videos)
 - [DX Analytics](https://github.com/yhilpisch/dx)
@@ -541,16 +549,6 @@ Videos: Lectures by Pierre Albin (https://www.youtube.com/playlist?list...)
 - [A Brief History of Volatility Models - Harel Jacobson](https://volquant.medium.com/a-brief-history-of-volatility-models-cc0bbefe8b90)
 - [A Story of Liquidity, Volatility, and Returns - Nope, it's Lily](https://nope-its-lily.medium.com/a-story-of-liquidity-volatility-and-returns-754e0019c2d0)
 - [A brief history of volatility models - Harel Jacobson](https://volquant.medium.com/a-brief-history-of-volatility-models-cc0bbefe8b90)
-
-# math_self_study
-
-Book: “Understanding Analysis” by Stephen Abbott.
-Videos: Lectures by Francis Su (https://www.youtube.com/playlist?list...)
-
-LINEAR ALGEBRA
-
-Book: “Linear Algebra Done Right” by Sheldon Axler
-Videos: Sheldon Axler’s Playlist
 
 # Money and Monetarism
 - [Money - Perry Mehrling](https://youtu.be/f49T53oKIw8)
