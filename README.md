@@ -17,7 +17,39 @@
 - tla+
 
 # Hacking
-# Learn Hacking
+
+# Security
+- [Reverse Engineering for Beginners](https://yurichev.com/club/)
+- [Exploit development - Sam Bowne](https://samsclass.info/127/127_S18.shtml)
+- [Binary Exploitation and Memory Corruption - LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+- [exploit.education](https://exploit.education/)
+
+## Cryptography
+- [Introduction to Cryptography - Christof Paar](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
+
+## Wargames
+- [Over The Wire](https://overthewire.org/wargames/)
+- [Smash the stack](http://smashthestack.org/)
+- [Exploit exercises](https://exploit-exercises.lains.space/)
+
+# Rust
+- [Crust of Rust: Lifetime Annotations](https://www.youtube.com/watch?v=rAl-9HwD858)
+
+# Operating Systems
+- [The little book about OS development](https://littleosbook.github.io/)
+
+# Distributed Systems
+- [Distributed Systems - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- [PingCAP Talent Plan](https://github.com/pingcap/talent-plan)
+- [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos)
+
+# Software
+- [Foundations of Software Engineering](https://cmu-313.github.io/)
+- [Introductory Microcontroller Programming - Peter Alley](https://web.wpi.edu/Pubs/ETD/Available/etd-042811-095908/unrestricted/alley.pdf)
+
+# Game Programming
+- [COMP4300 - Dave Churchill](https://www.youtube.com/watch?v=LpEdZbUdDe4&list=PL_xRyXins848jkwC9Coy7B4N5XTOnQZzz)
+- [GamesWithGabe](https://www.youtube.com/c/GamesWithGabe/playlists)
 
 https://github.com/gerasdf/InsecureProgramming
 
@@ -319,8 +351,105 @@ Proving Liveness Properties of Concurrent Programs
 - [Quorum](https://en.wikipedia.org/wiki/Quorum_(distributed_computing))
 - [baseds: Exploring the basics of distributed systems](https://medium.com/baseds)
 
+# Learn Blockchain
+
+## Blockchain and Crypto
+- [Foundations of Blockchains](https://timroughgarden.github.io/fob21/)
+- [DeFi MOOC](https://www.youtube.com/channel/UCB67PxhB5LAWEbI4etQS7aw/playlists)
+
+### Pre-requisites
+- [Public & Private Keys](https://www.youtube.com/watch?v=GSIDS_lvRv4)
+- [Digital Signatures - How they work?](https://www.youtube.com/watch?v=s22eJ1eVLTU)
+- [What is Hashing on the Blockchain?](https://www.youtube.com/watch?v=IGSB9zoSx70)
+
+### Cultural
+- [Nic Carter: Bitcoin Core Values, Layered Scaling, and Blocksize Debates](https://youtu.be/mDyBbGCiBUU)
+- [Balaji Srinivasan - Bitcoin and Ethereum, Crypto Oracles, and More](https://youtu.be/eim8REOYLzA)
+- [Raoul Pal Discusses with Punk6529: NFTs, IP Rights & The Metaverse](https://youtu.be/2Un_S1Z8yQo)
+- [Michael Saylor: Bitcoin, Inflation, and the Future of Money ](https://youtu.be/mC43pZkpTec)
+- [The Networked State - Balaji Srinivasan](https://youtu.be/NlY8HICFiRs)
+- [Cancelled Nickel Trades on the LME - Patrick Boyle](https://youtu.be/tHXF5LyLI4M)
+
+### Basics
+- [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+- [Bitcoin paper](https://bitcoin.org/bitcoin.pdf)
+- [Ethereum paper](https://ethereum.org/en/whitepaper/)
+- [Understanding the Ethereum Blockchain Protocol - Vitalik Buterin](https://youtu.be/gjwr-7PgpN8)
+- [Cryptoeconomics In 30 Minutes - Vitalik Buterin](https://youtu.be/GQR1xjQn5Pg)
+- [Trie, Merkle, Patricia: A Blockchain Story](http://kronosapiens.github.io/blog/2018/07/04/patricia-trees.html)
+
+### Courses
+- [Stanford CS 251: Cryptocurrencies and Blockchain Technologies](https://cs251.stanford.edu/syllabus.html)
+- [MIT 15.S12 Blockchain and Money - Gary Gensler](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
+
+## Ethereum
+
+### Solidity
+- [Learn Solidity in Y minutes](https://learnxinyminutes.com/docs/solidity/)
+- [Solidity by Example](https://solidity-by-example.org/)
+- [Crypto Zombies](https://cryptozombies.io/)
+- [Peter's Solidity Recruitment Test](https://youtu.be/80fA7foSi7c)
+- [BuidlGuidl is a curated group of Ethereum builders](https://buidlguidl.com/)
+
+#### Contracts
+- [Programming DeFi: Uniswap V2](https://jeiwan.net/posts/programming-defi-uniswapv2-1/)
+
+### Ethereum Internals
+- [EVM Deep Dives: The Path to Shadowy Super Coder](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?s=r)
+- [EVM: From Solidity to byte code, memory and storage](https://youtu.be/RxL_1AfV7N4)
+- [Ethereum Virtual Machine](https://youtu.be/BsDq2mzC5tk)
+- [Ethereum VM and Consensus by Fredrik Haga](https://youtu.be/Wq8kryb2Ats)
+
+### Ethereum Security
+- [Ethernaut](https://ethernaut.openzeppelin.com/)
+- [Honeypot](https://github.com/scaffold-eth/scaffold-eth/tree/honeypot-example)
+- [Honeypots in Ethereum And How To Avoid Them](https://youtu.be/DDn5mksOUCc)
+- [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+- [Solidity Security: Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
+- [Capture the Ether](https://capturetheether.com/challenges/)
+
+### Vulnerabilities
+- [Smart Contract Vulnerabilities (SCV) List](https://github.com/sirhashalot/SCV-List)
+
+### MEV
+- [Understanding MEV - with Georgios Konstantopoulos, Dan Robinson, and Hasu](https://youtu.be/vCCYFSAdCFo)
+- [Interview with a Searcher - with MEV Senpai and Hasu](https://youtu.be/6jfSlDvH77k)
+- [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/abs/1904.05234)
+- [MEV 101](https://github.com/0xmebius/mev/blob/main/MEV101.pdf)
+
+## Learn Zero Knowledge Proofs
+
+### Basics
+- [Intro to zero knowledge proofs](https://www.youtube.com/watch?v=HUs1bH85X9I)
+- [Security and Privacy for Crypto with Zero-Knowledge Proofs](https://www.youtube.com/watch?v=3NL0ThdvWMU)
+
+### ZK SNARKs
+- [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
+- [Intro to zk-SNARKs - Howard Wu](https://zeroknowledge.fm/38-2/)
+- [Zcash Ceremony](https://www.youtube.com/watch?v=D6dY-3x3teM)
+
+### ZK STARKs
+- [Hasu gets STARK-pilled - with Eli Ben-Sasson](https://youtu.be/-6BtBUbiUIU)
+- [Cairo – a Turing-complete STARK-friendly CPU architecture](https://eprint.iacr.org/2021/1063.pdf)
+
+### Advanced topics:
+- [Vitalik's introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html)
+- [Vitalik's post on quadratic arithmetic programs](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
+- [Comparing General Purpose zk-SNARKs](https://medium.com/coinmonks/comparing-general-purpose-zk-snarks-51ce124c60bd)
+
+### Examples with code:
+- [Dark forest's intro + circuits PARRT 1](https://blog.zkga.me/intro-to-zksnarks)
+- [Dark forest's intro + circuits PARRT 2](https://blog.zkga.me/df-init-circuit)
+
+## R1CS/Circuits
+- [Circom tutorial](https://github.com/therealyingtong/roll_up_circom_tutorial)
+- [R1CS programing workshop](https://github.com/mir-protocol/r1cs-workshop/blob/master/workshop.pdf)
+
+## Papers
+- [A Note on Cryptocurrency Stabilisation: Seigniorage Shares - Robert Sams](https://github.com/rmsams/stablecoins/blob/master/paper.pdf)
 ## Compilers
 - [CS143 Compilers](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
+
 # Learn Compilers
 
 https://cs3110.github.io/textbook/cover.html
@@ -410,6 +539,43 @@ https://github.com/lurk-lang/lurk-rs
 ## Others
 - [Crypto Screencasts - David Wong](https://www.youtube.com/playlist?list=PLBJMt6zV1c7FN3IjBDr9lydgqGzh_SqHV)
 - [ZK docs](https://www.zkdocs.com/)
+
+
+# Finance
+- [Bridgewater Associates](https://www.youtube.com/c/Bridgewater/videos)
+- [DX Analytics](https://github.com/yhilpisch/dx)
+- [Risk Management - Pasquale Cirillo](https://www.youtube.com/playlist?list=PLgCR5H4IzggGihtfhTtA0fxGiBU8DMWHq)
+- [Economics of Money and Banking - Perry Mehrling](https://www.coursera.org/learn/money-banking)
+- [Quantitative Risk Management - Pasquale Cirillo](https://www.youtube.com/watch?v=-E4QMeCNvIE&list=PLgCR5H4IzggHyHw8dalrVHqHAqZfmTeWa)
+- [Financial Mathematics - Pasquale Cirillo](https://www.youtube.com/watch?v=JyoeWaNtWLM&list=PLgCR5H4IzggF_w7l1WSYMaoDSZNNkk9gE)
+- [Python for Computational Finance - Yves Hilpisch](https://home.tpq.io/certificates/compfin/)
+
+## Papers
+- [Demystifying Rebalancing Premium and Extending Portfolio Theory in the Process - Vladislav Dubikovsky, Gabriele Susinno](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2927791)
+- [Rough Volatility Literature](https://sites.google.com/site/roughvol/home/risks-1)
+- [Radical Complexity - Jean-Philippe Bouchaud](https://arxiv.org/abs/2103.09692)
+- [Buy Rough, Sell Smooth - Paul Glasserman, Pu He](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301669)
+
+## Volatility
+- [Rough volatility - Jim Gatheral](https://youtu.be/gW073Tnx7CE)
+- [Fragile Markets — Understanding the dynamic of a Flash Crash - Harel Jacobson](https://volquant.medium.com/fragile-markets-understanding-the-dynamic-of-a-flash-crash-e86fbc8b4e6c)
+- [Liquidity, Volatility, and Information Asymmetry - Harel Jacobson](https://volquant.medium.com/liquidity-volatility-and-information-asymmetry-c7eb52dd3a4c)
+- [So You Want to Trade Options — Volatility Trading 101 - Harel Jacobson](https://volquant.medium.com/so-you-want-to-trade-options-volatility-trading-101-b96bccbd467b)
+- [Delta Hedging made simple (sort of…) - Harel Jacobson](https://volquant.medium.com/delta-hedging-made-simple-sort-of-34441d1d1db8)
+- [Volatility Smile and Delta Hedging (Part 1) — Getting intimate with the vol surface - Harel Jacobson](https://volquant.medium.com/volatility-smile-and-delta-hedging-part-1-getting-intimate-with-the-vol-surface-7bdcafaf8bdf)
+- [Turbocharging Derivatives — Variance, Convexity, and Everything in Between - Harel Jacobson](https://volquant.medium.com/turbocharging-derivatives-variance-convexity-and-everything-between-3988741664d4)
+- [Trading Volatility Roughness — Rethinking Statistical Arbitrage - Harel Jacobson](https://volquant.medium.com/trading-volatility-roughness-rethinking-statistical-arbitrage-41a204c93b6d)
+- [A Brief History of Volatility Models - Harel Jacobson](https://volquant.medium.com/a-brief-history-of-volatility-models-cc0bbefe8b90)
+- [A Story of Liquidity, Volatility, and Returns - Nope, it's Lily](https://nope-its-lily.medium.com/a-story-of-liquidity-volatility-and-returns-754e0019c2d0)
+- [A brief history of volatility models - Harel Jacobson](https://volquant.medium.com/a-brief-history-of-volatility-models-cc0bbefe8b90)
+
+# Money and Monetarism
+- [Money - Perry Mehrling](https://youtu.be/f49T53oKIw8)
+- [What is Money, Anyway? - Lyn Alden](https://www.lynalden.com/what-is-money/)
+- [Bagehot was a Shadow Banker: Shadow Banking, Central Banking, and the Future of Global Finance - Perry Mehrling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2232016)
+
+# Geopolitics
+- [Ray Dalio: Money, Power, and the Collapse of Empires](https://youtu.be/TISMidxdZoc)
 
 # Mathematics
 - [The two cultures of mathematics](https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf)
@@ -521,177 +687,3 @@ LINEAR ALGEBRA
 
 Book: “Linear Algebra Done Right” by Sheldon Axler
 Videos: Sheldon Axler’s Playlist
-
-# Finance
-- [Bridgewater Associates](https://www.youtube.com/c/Bridgewater/videos)
-- [DX Analytics](https://github.com/yhilpisch/dx)
-- [Risk Management - Pasquale Cirillo](https://www.youtube.com/playlist?list=PLgCR5H4IzggGihtfhTtA0fxGiBU8DMWHq)
-- [Economics of Money and Banking - Perry Mehrling](https://www.coursera.org/learn/money-banking)
-- [Quantitative Risk Management - Pasquale Cirillo](https://www.youtube.com/watch?v=-E4QMeCNvIE&list=PLgCR5H4IzggHyHw8dalrVHqHAqZfmTeWa)
-- [Financial Mathematics - Pasquale Cirillo](https://www.youtube.com/watch?v=JyoeWaNtWLM&list=PLgCR5H4IzggF_w7l1WSYMaoDSZNNkk9gE)
-- [Python for Computational Finance - Yves Hilpisch](https://home.tpq.io/certificates/compfin/)
-
-## Papers
-- [Demystifying Rebalancing Premium and Extending Portfolio Theory in the Process - Vladislav Dubikovsky, Gabriele Susinno](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2927791)
-- [Rough Volatility Literature](https://sites.google.com/site/roughvol/home/risks-1)
-- [Radical Complexity - Jean-Philippe Bouchaud](https://arxiv.org/abs/2103.09692)
-- [Buy Rough, Sell Smooth - Paul Glasserman, Pu He](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301669)
-
-## Volatility
-- [Rough volatility - Jim Gatheral](https://youtu.be/gW073Tnx7CE)
-- [Fragile Markets — Understanding the dynamic of a Flash Crash - Harel Jacobson](https://volquant.medium.com/fragile-markets-understanding-the-dynamic-of-a-flash-crash-e86fbc8b4e6c)
-- [Liquidity, Volatility, and Information Asymmetry - Harel Jacobson](https://volquant.medium.com/liquidity-volatility-and-information-asymmetry-c7eb52dd3a4c)
-- [So You Want to Trade Options — Volatility Trading 101 - Harel Jacobson](https://volquant.medium.com/so-you-want-to-trade-options-volatility-trading-101-b96bccbd467b)
-- [Delta Hedging made simple (sort of…) - Harel Jacobson](https://volquant.medium.com/delta-hedging-made-simple-sort-of-34441d1d1db8)
-- [Volatility Smile and Delta Hedging (Part 1) — Getting intimate with the vol surface - Harel Jacobson](https://volquant.medium.com/volatility-smile-and-delta-hedging-part-1-getting-intimate-with-the-vol-surface-7bdcafaf8bdf)
-- [Turbocharging Derivatives — Variance, Convexity, and Everything in Between - Harel Jacobson](https://volquant.medium.com/turbocharging-derivatives-variance-convexity-and-everything-between-3988741664d4)
-- [Trading Volatility Roughness — Rethinking Statistical Arbitrage - Harel Jacobson](https://volquant.medium.com/trading-volatility-roughness-rethinking-statistical-arbitrage-41a204c93b6d)
-- [A Brief History of Volatility Models - Harel Jacobson](https://volquant.medium.com/a-brief-history-of-volatility-models-cc0bbefe8b90)
-- [A Story of Liquidity, Volatility, and Returns - Nope, it's Lily](https://nope-its-lily.medium.com/a-story-of-liquidity-volatility-and-returns-754e0019c2d0)
-- [A brief history of volatility models - Harel Jacobson](https://volquant.medium.com/a-brief-history-of-volatility-models-cc0bbefe8b90)
-
-# Money and Monetarism
-- [Money - Perry Mehrling](https://youtu.be/f49T53oKIw8)
-- [What is Money, Anyway? - Lyn Alden](https://www.lynalden.com/what-is-money/)
-- [Bagehot was a Shadow Banker: Shadow Banking, Central Banking, and the Future of Global Finance - Perry Mehrling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2232016)
-
-# Blockchain and Crypto
-- [Foundations of Blockchains](https://timroughgarden.github.io/fob21/)
-- [DeFi MOOC](https://www.youtube.com/channel/UCB67PxhB5LAWEbI4etQS7aw/playlists)
-# Learn Blockchain
-
-### Pre-requisites
-- [Public & Private Keys](https://www.youtube.com/watch?v=GSIDS_lvRv4)
-- [Digital Signatures - How they work?](https://www.youtube.com/watch?v=s22eJ1eVLTU)
-- [What is Hashing on the Blockchain?](https://www.youtube.com/watch?v=IGSB9zoSx70)
-
-### Cultural
-- [Nic Carter: Bitcoin Core Values, Layered Scaling, and Blocksize Debates](https://youtu.be/mDyBbGCiBUU)
-- [Balaji Srinivasan - Bitcoin and Ethereum, Crypto Oracles, and More](https://youtu.be/eim8REOYLzA)
-- [Raoul Pal Discusses with Punk6529: NFTs, IP Rights & The Metaverse](https://youtu.be/2Un_S1Z8yQo)
-- [Michael Saylor: Bitcoin, Inflation, and the Future of Money ](https://youtu.be/mC43pZkpTec)
-- [The Networked State - Balaji Srinivasan](https://youtu.be/NlY8HICFiRs)
-- [Cancelled Nickel Trades on the LME - Patrick Boyle](https://youtu.be/tHXF5LyLI4M)
-
-### Basics
-- [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
-- [Bitcoin paper](https://bitcoin.org/bitcoin.pdf)
-- [Ethereum paper](https://ethereum.org/en/whitepaper/)
-- [Understanding the Ethereum Blockchain Protocol - Vitalik Buterin](https://youtu.be/gjwr-7PgpN8)
-- [Cryptoeconomics In 30 Minutes - Vitalik Buterin](https://youtu.be/GQR1xjQn5Pg)
-- [Trie, Merkle, Patricia: A Blockchain Story](http://kronosapiens.github.io/blog/2018/07/04/patricia-trees.html)
-
-### Courses
-- [Stanford CS 251: Cryptocurrencies and Blockchain Technologies](https://cs251.stanford.edu/syllabus.html)
-- [MIT 15.S12 Blockchain and Money - Gary Gensler](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
-
-## Ethereum
-
-### Solidity
-- [Learn Solidity in Y minutes](https://learnxinyminutes.com/docs/solidity/)
-- [Solidity by Example](https://solidity-by-example.org/)
-- [Crypto Zombies](https://cryptozombies.io/)
-- [Peter's Solidity Recruitment Test](https://youtu.be/80fA7foSi7c)
-- [BuidlGuidl is a curated group of Ethereum builders](https://buidlguidl.com/)
-
-#### Contracts
-- [Programming DeFi: Uniswap V2](https://jeiwan.net/posts/programming-defi-uniswapv2-1/)
-
-### Ethereum Internals
-- [EVM Deep Dives: The Path to Shadowy Super Coder](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?s=r)
-- [EVM: From Solidity to byte code, memory and storage](https://youtu.be/RxL_1AfV7N4)
-- [Ethereum Virtual Machine](https://youtu.be/BsDq2mzC5tk)
-- [Ethereum VM and Consensus by Fredrik Haga](https://youtu.be/Wq8kryb2Ats)
-
-### Ethereum Security
-- [Ethernaut](https://ethernaut.openzeppelin.com/)
-- [Honeypot](https://github.com/scaffold-eth/scaffold-eth/tree/honeypot-example)
-- [Honeypots in Ethereum And How To Avoid Them](https://youtu.be/DDn5mksOUCc)
-- [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
-- [Solidity Security: Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
-- [Capture the Ether](https://capturetheether.com/challenges/)
-
-### Vulnerabilities
-- [Smart Contract Vulnerabilities (SCV) List](https://github.com/sirhashalot/SCV-List)
-
-### MEV
-- [Understanding MEV - with Georgios Konstantopoulos, Dan Robinson, and Hasu](https://youtu.be/vCCYFSAdCFo)
-- [Interview with a Searcher - with MEV Senpai and Hasu](https://youtu.be/6jfSlDvH77k)
-- [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/abs/1904.05234)
-- [MEV 101](https://github.com/0xmebius/mev/blob/main/MEV101.pdf)
-
-## Learn Zero Knowledge Proofs
-
-### Basics
-- [Intro to zero knowledge proofs](https://www.youtube.com/watch?v=HUs1bH85X9I)
-- [Security and Privacy for Crypto with Zero-Knowledge Proofs](https://www.youtube.com/watch?v=3NL0ThdvWMU)
-
-### ZK SNARKs
-- [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
-- [Intro to zk-SNARKs - Howard Wu](https://zeroknowledge.fm/38-2/)
-- [Zcash Ceremony](https://www.youtube.com/watch?v=D6dY-3x3teM)
-
-### ZK STARKs
-- [Hasu gets STARK-pilled - with Eli Ben-Sasson](https://youtu.be/-6BtBUbiUIU)
-- [Cairo – a Turing-complete STARK-friendly CPU architecture](https://eprint.iacr.org/2021/1063.pdf)
-
-### Advanced topics:
-- [Vitalik's introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html)
-- [Vitalik's post on quadratic arithmetic programs](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
-- [Comparing General Purpose zk-SNARKs](https://medium.com/coinmonks/comparing-general-purpose-zk-snarks-51ce124c60bd)
-
-### Examples with code:
-- [Dark forest's intro + circuits PARRT 1](https://blog.zkga.me/intro-to-zksnarks)
-- [Dark forest's intro + circuits PARRT 2](https://blog.zkga.me/df-init-circuit)
-
-## R1CS/Circuits
-- [Circom tutorial](https://github.com/therealyingtong/roll_up_circom_tutorial)
-- [R1CS programing workshop](https://github.com/mir-protocol/r1cs-workshop/blob/master/workshop.pdf)
-
-## Aleo
-- [Programmable Zero Knowledge with Aleo](https://www.youtube.com/watch?v=o08E4gx9TqA&t=1593)
-
-## Stablecoins
-- [UXD](https://uxd.fi/)
-- [Frax](https://app.frax.finance)
-
-
-
-## Papers
-- [A Note on Cryptocurrency Stabilisation: Seigniorage Shares - Robert Sams](https://github.com/rmsams/stablecoins/blob/master/paper.pdf)
-
-# Security
-- [Reverse Engineering for Beginners](https://yurichev.com/club/)
-- [Exploit development - Sam Bowne](https://samsclass.info/127/127_S18.shtml)
-- [Binary Exploitation and Memory Corruption - LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
-- [exploit.education](https://exploit.education/)
-
-## Cryptography
-- [Introduction to Cryptography - Christof Paar](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
-
-## Wargames
-- [Over The Wire](https://overthewire.org/wargames/)
-- [Smash the stack](http://smashthestack.org/)
-- [Exploit exercises](https://exploit-exercises.lains.space/)
-
-# Rust
-- [Crust of Rust: Lifetime Annotations](https://www.youtube.com/watch?v=rAl-9HwD858)
-
-# Operating Systems
-- [The little book about OS development](https://littleosbook.github.io/)
-
-# Distributed Systems
-- [Distributed Systems - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
-- [PingCAP Talent Plan](https://github.com/pingcap/talent-plan)
-- [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos)
-
-# Software
-- [Foundations of Software Engineering](https://cmu-313.github.io/)
-- [Introductory Microcontroller Programming - Peter Alley](https://web.wpi.edu/Pubs/ETD/Available/etd-042811-095908/unrestricted/alley.pdf)
-
-# Game Programming
-- [COMP4300 - Dave Churchill](https://www.youtube.com/watch?v=LpEdZbUdDe4&list=PL_xRyXins848jkwC9Coy7B4N5XTOnQZzz)
-- [GamesWithGabe](https://www.youtube.com/c/GamesWithGabe/playlists)
-
-# Geopolitics
-- [Ray Dalio: Money, Power, and the Collapse of Empires](https://youtu.be/TISMidxdZoc)
