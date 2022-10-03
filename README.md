@@ -161,7 +161,7 @@ https://github.com/cirosantilli/x86-bare-metal-examples
 
 
 # Computer Science
-# Learning Distributed Systems 
+# Learning Distributed Systems
 
 Thanks to [the paper trail](https://www.the-paper-trail.org/) and [CaitieM](https://caitiem.com/2017/09/07/getting-started-with-distributed-systems/).
 
@@ -413,6 +413,11 @@ https://github.com/lurk-lang/lurk-rs
 - [Crypto Screencasts - David Wong](https://www.youtube.com/playlist?list=PLBJMt6zV1c7FN3IjBDr9lydgqGzh_SqHV)
 - [ZK docs](https://www.zkdocs.com/)
 
+# Mathematics
+- [The two cultures of mathematics](https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf)
+- [Introduction to Computational Thinking -  Alan Edelman, David P. Sanders and Charles E. Leiserson](https://computationalthinking.mit.edu/Spring21/)
+- [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+
 ## Abstract Algebra
 - [Algebra - Serge Lang](https://www.wiley.com/en-au/Abstract+Algebra,+3rd+Edition-p-9780471433347)
 - [Abstract Algebra - Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)\
@@ -422,13 +427,8 @@ https://github.com/lurk-lang/lurk-rs
 - [Elementary Number Theory: Primes, Congruences, and Secrets - William Stein](https://wstein.org/ent/ent.pdf)
 - [Algebraic Number Theory](https://www.jmilne.org/math/CourseNotes/ANT.pdf)
 
-## Complex Analysis 
+## Complex Analysis
 - [Complex Analysis - Serge Lang](https://cloudflare-ipfs.com/ipfs/bafykbzacebds7eaero37rx6fztl2wg36h4yklf7ilwjsrjl654etvz4omqzfm?filename=%28Graduate%20Texts%20in%20Mathematics%20103%29%20Serge%20Lang%20-%20Complex%20Analysis-Springer%20%282003%29.pdf)
-
-# Mathematics
-- [The two cultures of mathematics](https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf)
-- [Introduction to Computational Thinking -  Alan Edelman, David P. Sanders and Charles E. Leiserson](https://computationalthinking.mit.edu/Spring21/)
-- [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 
 ## Linear Algebra
 - [Essence of linear algebra - 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -539,7 +539,7 @@ Intro Book: “Visual Complex Functions: an Introduction with Phase Portraits”
 More Technical Book: “Complex Analysis” by Serge Lang
 Videos: Wesleyan University Playlist (https://www.youtube.com/playlist?list...)
 
-GROUP THEORY 
+GROUP THEORY
 
 Book: “Topics in Algebra” by Herstein (Chapter 2)
 Videos: Lectures by Benedict Gross (https://www.youtube.com/playlist?list...)
