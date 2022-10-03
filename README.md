@@ -1,7 +1,12 @@
 # The best learning resources
 
 # x86 bare metal
+- https://www.nand2tetris.org/
 - [](https://github.com/cirosantilli/x86-bare-metal-examples)
+- https://wiki.skullsecurity.org/Assembly
+- https://github.com/RPISEC/MBE
+- http://opensecuritytraining.info/LifeOfBinaries.html
+- http://opensecuritytraining.info/IntroX86.html
 
 # Reverse Engineering
 - [Reverse Engineering ](https://beginners.re/)
@@ -11,7 +16,7 @@
 - [Insecture Programming](https://github.com/gerasdf/InsecureProgramming)
 
 ### Books
-- [Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation by Bruce Dang, Alexandre Gazet, Elias Bachaalany]()
+- Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation by Bruce Dang, Alexandre Gazet, Elias Bachaalany
 
 ## Wargames
 - [Over The Wire](https://overthewire.org/wargames/)
@@ -23,118 +28,67 @@
 - [exploit.education](https://exploit.education/)
 
 ### Books
-- [Hacking, the Art of Exploitation - Jon Erikson]()
-- [The Shellcoders Handbook - Anley, Heasman, Lindner and Richarte]()
-- [Gray Hat Hacking The Ethical Hacker's Handbook]()
-- [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities]()
-    The IDA Pro Book: The Unofficial Guide to the World’s Most Popular Disassembler by Chris Eagle
-    A Bug Hunter’s Diary: A Guided Tour Through the Wilds of Software Security by Tobias Klein
+- Hacking, the Art of Exploitation - Jon Erikson
+- The Shellcoders Handbook - Anley, Heasman, Lindner and Richarte
+- Gray Hat Hacking The Ethical Hacker's Handbook
+- The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities
+- The IDA Pro Book: The Unofficial Guide to the World’s Most Popular Disassembler by Chris Eagle
+- A Bug Hunter’s Diary: A Guided Tour Through the Wilds of Software Security by Tobias Klein
 
-## Fuzzing
+# Fuzzing
 - [FuzzySecurity](http://www.fuzzysecurity.com)
+- [LibFuzzer Workshop](https://github.com/Dor1s/libfuzzer-workshop)
 
-    https://www.corelan.be/ 652 Fantastic Exploit Development tutorials
+# To Organize
 
-    http://www.fuzzysecurity.com/ 355 More Great tutorials
-
-    http://opensecuritytraining.info/ 366 Free courses with lots of content
-
-    http://www.securitytube.net/ 250 The Megaprimers are awesome
-
+- https://www.corelan.be/ 652 Fantastic Exploit Development tutorials
+- http://www.fuzzysecurity.com/ 355 More Great tutorials
+- http://opensecuritytraining.info/ 366 Free courses with lots of content
+- http://www.securitytube.net/ 250 The Megaprimers are awesome
 - https://labs.integrity.pt/articles/from-0-day-to-exploit-buffer-overflow-in-belkin-n750-cve-2014-1635/
-
 - https://web.archive.org/web/20121110045053/http://www.violentpython.org/wordpress/?
-
 - http://shell-storm.org/blog/A-binary-analysis-count-me-if-you-can/
-
 - https://samsclass.info/
-
 - https://blog.skullsecurity.org/
-
-- https://wiki.skullsecurity.org/Assembly
-
 - https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
-
 - https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
-
 - https://github.com/justinsteven/dostackbufferoverflowgood
-
-- http://smashthestack.org/wargames.html
-
 - https://blog.skullsecurity.org/category/ctfs
-
-- https://github.com/RPISEC/MBE
-
 - https://www.reddit.com/r/AskNetsec/comments/5i73db/path_to_exploit_developer/db61ken/
-
-- http://opensecuritytraining.info/LifeOfBinaries.html
-
-- http://opensecuritytraining.info/IntroX86.html
-
 - http://www.myne-us.com/2010/08/from-0x90-to-0x4c454554-journey-into.html
-
 - https://www.reddit.com/r/AskNetsec/comments/5i73db/path_to_exploit_developer/db61ken/
-
 - https://www.sans.org/event/sans-europe-pen-test-special-2020/course/advanced-exploit-development-penetration-testers
-
 - https://github.com/tylerha97/awesome-reversing
-
 - http://www.pentest.guru/index.php/2016/01/28/best-books-tutorials-and-courses-to-learn-about-exploit-development/
-
 - [](http://security.cs.rpi.edu/courses/binexp-spring2015/)
-
 - http://opensecuritytraining.info/Exploits1.html
-
 - https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
-
 - http://opensecuritytraining.info/Exploits2.html
-
 - https://github.com/demi6od/Smashing_The_Browser
-
 - HackerSploit https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q
-
 - https://samsclass.info/127/127_F19.shtml
-
 - https://github.com/r0hi7/BinExp
-
 - https://insecure.org/stf/smashstack.html
-
 - http://opensecuritytraining.info/
-
 - https://portswigger.net/web-security
-
-- https://www.nand2tetris.org/
-
 - http://pwnadventure.com/
-
 - https://github.com/guyinatuxedo/nightmare
-
 - https://sourcery.pwnadventure.com/
-
 - https://microcorruption.com/login
-
 - https://guyinatuxedo.github.io/
-
 - https://exploit-exercises.lains.space/
-
 - https://ropemporium.com/
-
 - https://0x0539.net/
-
-- https://exploit.education/
-
 - https://pwnable.xyz/
-
-- https://github.com/Dor1s/libfuzzer-workshop
-
 - https://www.hackthebox.eu/individuals
 
-# Computer Science
 # Operating Systems
 - [The little book about OS development](https://littleosbook.github.io/)
 
-# Software
+# Software Engineering
 - [Foundations of Software Engineering](https://cmu-313.github.io/)
+
+# Embedded Systems
 - [Introductory Microcontroller Programming - Peter Alley](https://web.wpi.edu/Pubs/ETD/Available/etd-042811-095908/unrestricted/alley.pdf)
 
 # Game Programming
@@ -159,14 +113,14 @@
 
 ### Papers
 - [Readings in Distributed Systems - Christopher Meiklejohn](https://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
-The Part-Time Parliament
-Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems
-Fast Paxos
-Paxos Made Moderately Complex
-Distributed Snapshots: Determining Global States of Distributed Systems
-Forward and Backward Simulations Part I: Untimed Systems
-An Axiomatic Proof Technique for Parallel Programs I
-Proving Liveness Properties of Concurrent Programs
+- The Part-Time Parliament
+- Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems
+- Fast Paxos
+- Paxos Made Moderately Complex
+- Distributed Snapshots: Determining Global States of Distributed Systems
+- Forward and Backward Simulations Part I: Untimed Systems
+- An Axiomatic Proof Technique for Parallel Programs I
+- Proving Liveness Properties of Concurrent Programs
 
 #### Exercises
 - [Toydb](https://github.com/erikgrinaker/toydb)
@@ -186,12 +140,11 @@ Proving Liveness Properties of Concurrent Programs
 
 ### Books
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/)
-- [Designing Data Intensive Applications - Martin Kleppmann]()
-- [Replication: Theory and Practice]()
-- [Introduction to Reliable and Secure Distributed Programming]()
+- Designing Data Intensive Applications - Martin Kleppmann
+- Replication: Theory and Practice
+- Introduction to Reliable and Secure Distributed Programming
 
 ## Papers
-
 - [A Note on Distributed Systems](citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.7628)
 - [MapReduce: Simplified Data Processing on Large Clusters](https://ai.google/research/pubs/pub62)
 - [Dynamo](www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
@@ -205,7 +158,7 @@ Proving Liveness Properties of Concurrent Programs
 - [Three phase commit](https://www.the-paper-trail.org/post/2008-11-29-consensus-protocols-three-phase-commit/)
 - [Paxos](https://www.the-paper-trail.org/post/2009-02-03-consensus-protocols-paxos/)
 - [Chubby](https://ai.google/research/pubs/pub27897)
-- [Zookeeper]()
+- Zookeeper
 - [A Quorum-based Commit Protocol](https://ecommons.library.cornell.edu/bitstream/1813/6323/1/82-483.pdf)
 - [Bully algorithm](https://en.wikipedia.org/wiki/Bully_algorithm)
 - [How to Build a Highly Available System Using Consensus](https://www.microsoft.com/en-us/research/publication/how-to-build-a-highly-available-system-using-consensus/)
@@ -215,7 +168,6 @@ Proving Liveness Properties of Concurrent Programs
 - [Chain Replication for Supporting High Throughput and Availability](http://www.cs.cornell.edu/home/rvr/papers/OSDI04.pdf)
 
 ## Real Systems
-
 - [GFS](http://static.googleusercontent.com/media/research.google.com/en/us/archive/gfs-sosp2003.pdf)
 - [Spanner](http://static.googleusercontent.com/media/research.google.com/en/us/archive/spanner-osdi2012.pdf)
 - [F1](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41344.pdf)
@@ -235,7 +187,6 @@ Proving Liveness Properties of Concurrent Programs
 - [Azure Data Lake Store](https://dl.acm.org/citation.cfm?id=3056100)
 
 ## Blog Posts & Talks
-
 - [Everything Will Flow - Zach Tellman](https://www.youtube.com/watch?v=1bNOO3xxMc0)
 
 ## Courses
@@ -259,30 +210,23 @@ Proving Liveness Properties of Concurrent Programs
 
 - [CS143 Compilers](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
 
-https://cs3110.github.io/textbook/cover.html
+- https://github.com/thizanne/tiger
+- https://www.cis.upenn.edu/~bcpierce/tapl/
+- https://github.com/ljedrz/lambda_calculus
+- https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/
+- https://mykolav.github.io/coollang-2020-fs/
+- https://volya.xyz/posts/toy-compiler/
+- https://cs3110.github.io/textbook/chapters/interp/typecheck.html
 
-https://github.com/thizanne/tiger
-https://www.cis.upenn.edu/~bcpierce/tapl/
+- [How I wrote my own "proper" programming language - Mukul Rathi](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/)
+- [Introduction to Compilers and Language Design - Douglas Thain](http://compilerbook.org)
+- [Beautiful Racket - Matthew Flatt](https://beautifulracket.com)
+- [Crafting interpreters - Robert Nystrom](https://craftinginterpreters.com)
+- [Engineering a Compiler - Keith D. Cooper, Linda Torczon](https://www.goodreads.com/en/book/show/1997607.Engineering_a_Compiler)
 
-https://github.com/ljedrz/lambda_calculus
-
-https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/
-
-https://mykolav.github.io/coollang-2020-fs/
-
-https://volya.xyz/posts/toy-compiler/
-
-https://cs3110.github.io/textbook/chapters/interp/typecheck.html
-
-* [How I wrote my own "proper" programming language - Mukul Rathi](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/)
-* [Introduction to Compilers and Language Design - Douglas Thain](http://compilerbook.org)
-* [Beautiful Racket - Matthew Flatt](https://beautifulracket.com)
-* [Crafting interpreters - Robert Nystrom](https://craftinginterpreters.com)
-* [Engineering a Compiler - Keith D. Cooper, Linda Torczon](https://www.goodreads.com/en/book/show/1997607.Engineering_a_Compiler)
-
-https://plzoo.andrej.com
-https://github.com/andrejbauer/plzoo/
-https://github.com/lurk-lang/lurk-rs
+- https://plzoo.andrej.com
+- https://github.com/andrejbauer/plzoo/
+- https://github.com/lurk-lang/lurk-rs
 
 ## projects and ideas
 - lambda calculus
@@ -521,7 +465,6 @@ https://github.com/lurk-lang/lurk-rs
 - [Visual Complex Functions: an Introduction with Phase Portraits - Elias Wegert](https://www.goodreads.com/book/show/12353218-visual-complex-functions?from_search=true&from_srp=true&qid=04GqQgkIBM&rank=1)
 - [Complex Analysis - Serge Lang](https://cloudflare-ipfs.com/ipfs/bafykbzacebds7eaero37rx6fztl2wg36h4yklf7ilwjsrjl654etvz4omqzfm?filename=%28Graduate%20Texts%20in%20Mathematics%20103%29%20Serge%20Lang%20-%20Complex%20Analysis-Springer%20%282003%29.pdf)
 
-
 ## Probability and Statistics
 - [Probability The Science of Uncertainty and Data -John Tsitsiklis](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
 - [Fundamentals of Statistics - Philippe Rigollet](https://www.edx.org/course/fundamentals-of-statistics)
@@ -549,7 +492,7 @@ https://github.com/lurk-lang/lurk-rs
 
 ### Book
 - [Algebra - Serge Lang](https://www.wiley.com/en-au/Abstract+Algebra,+3rd+Edition-p-9780471433347)
-- [Topics in Algebra - Herstein]()
+- Topics in Algebra - Herstein
 
 ## Number Theory
 - [Elementary Number Theory: Primes, Congruences, and Secrets - William Stein](https://wstein.org/ent/ent.pdf)
