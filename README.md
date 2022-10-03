@@ -1,21 +1,5 @@
 # The best learning resources
 
-## projects and ideas
-- lambda calculus
-- p2p
-- compiler for QBE / LLVM
-- Hindley–Milner type system / W Algorithm
-- bittorrent client
-- proof generation
-- dht
-- trees: merkle tree, lsm
-- consensus algorithms: raft
-- crdts
-- snarks / starks
-- use american fuzzy lop
-- symbolic execution
-- tla+
-
 # Hacking
 
 # Security
@@ -24,8 +8,6 @@
 - [Binary Exploitation and Memory Corruption - LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [exploit.education](https://exploit.education/)
 
-## Cryptography
-- [Introduction to Cryptography - Christof Paar](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
 
 ## Wargames
 - [Over The Wire](https://overthewire.org/wargames/)
@@ -143,7 +125,7 @@ https://github.com/cirosantilli/x86-bare-metal-examples
 
 - http://www.pentest.guru/index.php/2016/01/28/best-books-tutorials-and-courses-to-learn-about-exploit-development/
 
-- http://security.cs.rpi.edu/courses/binexp-spring2015/
+- [](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 
 - http://opensecuritytraining.info/Exploits1.html
 
@@ -191,24 +173,23 @@ https://github.com/cirosantilli/x86-bare-metal-examples
 
 - https://www.hackthebox.eu/individuals
 
-
 # Computer Science
-# Learning Distributed Systems
+## Learning Distributed Systems
 
 Thanks to [the paper trail](https://www.the-paper-trail.org/) and [CaitieM](https://caitiem.com/2017/09/07/getting-started-with-distributed-systems/).
 
-# Basics
+### Basics
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/)
 - [History of the Impossibles - CAP and FLP](https://dinhtta.github.io/flpcap/)
 - [FLP and CAP aren't the same thing](https://www.the-paper-trail.org/post/2012-03-25-flp-and-cap-arent-the-same-thing/)
 - [Readings in Database Systems - Peter Bailis, Joseph M. Hellerstein, Michael Stonebrake](http://www.redbook.io/all-chapters.html)
 - [The Log: What every software engineer should know about real-time data's unifying abstraction - Jay Kreps](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
-## Courses
+### Courses
 - [CS6213 Special Topics in Distributed Computing](https://ilyasergey.net/CS6213/index.html)
 - [CS 425 Distributed Systems](https://courses.engr.illinois.edu/cs425/fa2013/lectures.html)
 
-## Papers
+### Papers
 - [Readings in Distributed Systems - Christopher Meiklejohn](https://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 The Part-Time Parliament
 Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems
@@ -219,111 +200,71 @@ Forward and Backward Simulations Part I: Untimed Systems
 An Axiomatic Proof Technique for Parallel Programs I
 Proving Liveness Properties of Concurrent Programs
 
-# Exercises
+#### Exercises
 - [Toydb](https://github.com/erikgrinaker/toydb)
 - [pea2pea](https://github.com/ljedrz/pea2pea)
 
-## TLA+
+### TLA+
 - [Leslie Lamport's The TLA+ Video Course](https://www.youtube.com/playlist?list=PLWAv2Etpa7AOAwkreYImYt0gIpOdWQevD)
 - [raft.tla](https://www.youtube.com/watch?v=6Kwx8zfGW0Y)
 - [Dr. TLA+ Series - Raft](https://youtu.be/6Kwx8zfGW0Y)
 - [Dr. TLA+ series - learn an algorithm and protocol, study a specification](https://github.com/tlaplus/DrTLAPlus)
 
-## Raft
+### Raft
 - [An Erlang implementation of RAFT from WhatsApp](https://github.com/WhatsApp/waraft/blob/main/src/wa_raft_server.erl)
 
-## Data Structures
+### Data Structures
 
 - [Distributed Hash Tables](https://www.linuxjournal.com/article/6797)
 
-## Books
-
+### Books
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/)
-
 - [Designing Data Intensive Applications - Martin Kleppmann]()
-
 - [Replication: Theory and Practice]()
-
 - [Introduction to Reliable and Secure Distributed Programming]()
 
 ## Papers
 
 - [A Note on Distributed Systems](citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.7628)
-
 - [MapReduce: Simplified Data Processing on Large Clusters](https://ai.google/research/pubs/pub62)
-
 - [Dynamo](www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
-
 - [An overview of clock synchronization](https://groups.csail.mit.edu/tds/papers/Lynch/lncs90-asilomar.pdf)
-
 - [Impossibility of Distributed Consensus with One Faulty Process](http://macs.citadel.edu/rudolphg/csci604/ImpossibilityofConsensus.pdf)
-
 - [Harvest, Yield and Scalable Tolerant Systems](http://radlab.cs.berkeley.edu/people/fox/static/pubs/pdf/c18.pdf)
-
 - [Unreliable Failure Detectors for Reliable Distributed Systems](http://courses.csail.mit.edu/6.852/08/papers/CT96-JACM.pdf)
-
 - [Survey on Scalable Failure Detectors](http://www.scs.stanford.edu/14au-cs244b/labs/projects/song.pdf)
-
 - [Life beyond distribuyed transactions](www.ics.uci.edu/~cs223/papers/cidr07p15.pdf)
-
 - [Two phase commit](https://www.the-paper-trail.org/post/2008-11-27-consensus-protocols-two-phase-commit/)
-
 - [Three phase commit](https://www.the-paper-trail.org/post/2008-11-29-consensus-protocols-three-phase-commit/)
-
 - [Paxos](https://www.the-paper-trail.org/post/2009-02-03-consensus-protocols-paxos/)
-
 - [Chubby](https://ai.google/research/pubs/pub27897)
-
 - [Zookeeper]()
-
 - [A Quorum-based Commit Protocol](https://ecommons.library.cornell.edu/bitstream/1813/6323/1/82-483.pdf)
-
 - [Bully algorithm](https://en.wikipedia.org/wiki/Bully_algorithm)
-
 - [How to Build a Highly Available System Using Consensus](https://www.microsoft.com/en-us/research/publication/how-to-build-a-highly-available-system-using-consensus/)
-
 - [Distributed Snapshots: Determining Global States of a Distributed System](https://www.microsoft.com/en-us/research/publication/distributed-snapshots-determining-global-states-distributed-system/)
-
 - [Atomic broadcast](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.3.4709&rep=rep1&type=pdf)
-
 - [Gossip](http://bitsavers.informatik.uni-stuttgart.de/pdf/xerox/parc/techReports/CSL-89-1_Epidemic_Algorithms_for_Replicated_Database_Maintenance.pdf)
-
 - [Chain Replication for Supporting High Throughput and Availability](http://www.cs.cornell.edu/home/rvr/papers/OSDI04.pdf)
 
 ## Real Systems
 
 - [GFS](http://static.googleusercontent.com/media/research.google.com/en/us/archive/gfs-sosp2003.pdf)
-
 - [Spanner](http://static.googleusercontent.com/media/research.google.com/en/us/archive/spanner-osdi2012.pdf)
-
 - [F1](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41344.pdf)
-
 - [Chubby](http://static.googleusercontent.com/media/research.google.com/en/us/archive/chubby-osdi06.pdf)
-
 - [BigTable](http://static.googleusercontent.com/media/research.google.com/en/us/archive/bigtable-osdi06.pdf)
-
 - [MillWheel](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41378.pdf)
-
 - [Omega](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41684.pdf)
-
 - [Dapper](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/36356.pdf)
-
 - [Paxos Made Live](http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
-
 - [The Tail At Scale](http://cseweb.ucsd.edu/~gmporter/classes/fa17/cse124/post/schedule/p74-dean.pdf)
-
 - [Dryad](http://research.microsoft.com/en-us/projects/dryad/eurosys07.pdf)
-
 - [Cassandra](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
-
 - [Ceph](http://ceph.com/papers/weil-ceph-osdi06.pdf)
-
 - [RAMCloud](https://ramcloud.stanford.edu/wiki/display/ramcloud/RAMCloud+Papers)
-
 - [HyperDex](http://hyperdex.org/papers/)
-
 - [PNUTS](http://www.mpi-sws.org/~druschel/courses/ds/papers/cooper-pnuts.pdf)
-
 - [Azure Data Lake Store](https://dl.acm.org/citation.cfm?id=3056100)
 
 ## Blog Posts & Talks
@@ -350,6 +291,49 @@ Proving Liveness Properties of Concurrent Programs
 - [Vector clock](https://en.wikipedia.org/wiki/Vector_clock)
 - [Quorum](https://en.wikipedia.org/wiki/Quorum_(distributed_computing))
 - [baseds: Exploring the basics of distributed systems](https://medium.com/baseds)
+
+# Learn Compilers
+
+https://cs3110.github.io/textbook/cover.html
+
+https://github.com/thizanne/tiger
+https://www.cis.upenn.edu/~bcpierce/tapl/
+
+https://github.com/ljedrz/lambda_calculus
+
+https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/
+
+https://mykolav.github.io/coollang-2020-fs/
+
+https://volya.xyz/posts/toy-compiler/
+
+https://cs3110.github.io/textbook/chapters/interp/typecheck.html
+
+* [How I wrote my own "proper" programming language - Mukul Rathi](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/)
+* [Introduction to Compilers and Language Design - Douglas Thain](http://compilerbook.org)
+* [Beautiful Racket - Matthew Flatt](https://beautifulracket.com)
+* [Crafting interpreters - Robert Nystrom](https://craftinginterpreters.com)
+* [Engineering a Compiler - Keith D. Cooper, Linda Torczon](https://www.goodreads.com/en/book/show/1997607.Engineering_a_Compiler)
+
+https://plzoo.andrej.com
+https://github.com/andrejbauer/plzoo/
+https://github.com/lurk-lang/lurk-rs
+
+## projects and ideas
+- lambda calculus
+- p2p
+- compiler for QBE / LLVM
+- Hindley–Milner type system / W Algorithm
+- bittorrent client
+- proof generation
+- dht
+- trees: merkle tree, lsm
+- consensus algorithms: raft
+- crdts
+- snarks / starks
+- use american fuzzy lop
+- symbolic execution
+- tla+
 
 # Learn Blockchain
 
@@ -450,34 +434,11 @@ Proving Liveness Properties of Concurrent Programs
 ## Compilers
 - [CS143 Compilers](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
 
-# Learn Compilers
-
-https://cs3110.github.io/textbook/cover.html
-
-https://github.com/thizanne/tiger
-https://www.cis.upenn.edu/~bcpierce/tapl/
-
-https://github.com/ljedrz/lambda_calculus
-
-https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/
-
-https://mykolav.github.io/coollang-2020-fs/
-
-https://volya.xyz/posts/toy-compiler/
-
-https://cs3110.github.io/textbook/chapters/interp/typecheck.html
-
-* [How I wrote my own "proper" programming language - Mukul Rathi](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/)
-* [Introduction to Compilers and Language Design - Douglas Thain](http://compilerbook.org)
-* [Beautiful Racket - Matthew Flatt](https://beautifulracket.com)
-* [Crafting interpreters - Robert Nystrom](https://craftinginterpreters.com)
-* [Engineering a Compiler - Keith D. Cooper, Linda Torczon](https://www.goodreads.com/en/book/show/1997607.Engineering_a_Compiler)
-
-https://plzoo.andrej.com
-https://github.com/andrejbauer/plzoo/
-https://github.com/lurk-lang/lurk-rs
 
 # Learn Crytography
+
+## Cryptography
+- [Introduction to Cryptography - Christof Paar](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
 
 ## Blogs
 - [Trail of Bits](https://blog.trailofbits.com/)
@@ -540,7 +501,6 @@ https://github.com/lurk-lang/lurk-rs
 - [Crypto Screencasts - David Wong](https://www.youtube.com/playlist?list=PLBJMt6zV1c7FN3IjBDr9lydgqGzh_SqHV)
 - [ZK docs](https://www.zkdocs.com/)
 
-
 # Finance
 - [Bridgewater Associates](https://www.youtube.com/c/Bridgewater/videos)
 - [DX Analytics](https://github.com/yhilpisch/dx)
@@ -582,22 +542,11 @@ https://github.com/lurk-lang/lurk-rs
 - [Introduction to Computational Thinking -  Alan Edelman, David P. Sanders and Charles E. Leiserson](https://computationalthinking.mit.edu/Spring21/)
 - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 
-## Abstract Algebra
-- [Algebra - Serge Lang](https://www.wiley.com/en-au/Abstract+Algebra,+3rd+Edition-p-9780471433347)
-- [Abstract Algebra - Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)\
-- [Abstract (Modern) Algebra - Bill Kinney](https://www.youtube.com/playlist?list=PLmU0FIlJY-Mn3Pt-r5zQ_-Ar8mAnBZTf2)
-
-## Number Theory
-- [Elementary Number Theory: Primes, Congruences, and Secrets - William Stein](https://wstein.org/ent/ent.pdf)
-- [Algebraic Number Theory](https://www.jmilne.org/math/CourseNotes/ANT.pdf)
-
-## Complex Analysis
-- [Complex Analysis - Serge Lang](https://cloudflare-ipfs.com/ipfs/bafykbzacebds7eaero37rx6fztl2wg36h4yklf7ilwjsrjl654etvz4omqzfm?filename=%28Graduate%20Texts%20in%20Mathematics%20103%29%20Serge%20Lang%20-%20Complex%20Analysis-Springer%20%282003%29.pdf)
-
 ## Linear Algebra
 - [Essence of linear algebra - 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Linear Algebra - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRjxJ_sMtJ02geqw_-vuB7O)
 - [Introduction to Applied Linear Algebra - Stephen Boyd](https://www.youtube.com/watch?v=oR6G1MUMveE&list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9)
+- [Linear Algebra Done Right - Sheldon Axler](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
 
 ## Analysis
 - [The Essence of Calculus - 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
@@ -608,6 +557,9 @@ https://github.com/lurk-lang/lurk-rs
 ## Complex analysis and Fourrier
 - [Complex analysis - Richard E. Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj537_iYA5QrvwhvMlpkJ1yGN)
 - [Fourier Analysis - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
+- [Visual Complex Functions: an Introduction with Phase Portraits - Elias Wegert](https://www.goodreads.com/book/show/12353218-visual-complex-functions?from_search=true&from_srp=true&qid=04GqQgkIBM&rank=1)
+- [Complex Analysis - Serge Lang](https://cloudflare-ipfs.com/ipfs/bafykbzacebds7eaero37rx6fztl2wg36h4yklf7ilwjsrjl654etvz4omqzfm?filename=%28Graduate%20Texts%20in%20Mathematics%20103%29%20Serge%20Lang%20-%20Complex%20Analysis-Springer%20%282003%29.pdf)
+
 
 ## Probability and Statistics
 - [Probability The Science of Uncertainty and Data -John Tsitsiklis](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
@@ -627,19 +579,34 @@ https://github.com/lurk-lang/lurk-rs
 - [Data-Driven Dynamical Systems Overview - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR6DzT17-MM1GHLkuYVjhyt)
 - [Parallel Computing and Scientific Machine Learning - MIT 18.337J](https://github.com/mitmath/18337)
 
-## Algebra
-- [Visual Group Theory - Matthew Macauley](https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
+## Abstract Algebra
+- [Abstract Algebra - Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+- [Abstract (Modern) Algebra - Bill Kinney](https://www.youtube.com/playlist?list=PLmU0FIlJY-Mn3Pt-r5zQ_-Ar8mAnBZTf2)
 - [Rings and modules - Richard E. Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj52XDLrmvrFDgwcf6XOm2TEE)
+- [Abstract Algebra - Michael Artin](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5)
+- [Visual Group Theory - Matthew Macauley](https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
+
+### Book
+- [Algebra - Serge Lang](https://www.wiley.com/en-au/Abstract+Algebra,+3rd+Edition-p-9780471433347)
+- [Topics in Algebra - Herstein]()
 
 ## Number Theory
+- [Elementary Number Theory: Primes, Congruences, and Secrets - William Stein](https://wstein.org/ent/ent.pdf)
+- [Algebraic Number Theory](https://www.jmilne.org/math/CourseNotes/ANT.pdf)
 - [Introduction to number theory - Richard E. Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8)
 - [Theory of numbers - Richard E. Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj52Qf7lc3HHvHRdIysxEcj1H)
+
+## Real Analysis
+- [Real Analysis: Lectures by Professor Francis Su](https://www.youtube.com/playlist?list=PL0E754696F72137EC)
 
 ## Category Theory
 - [Categories for the idle mathematician - Richard E. Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj51F9XZ_Ka4bLnQoxTdMx0AL)
 
 ## Topology
 - [Algebraic Topology: a beginner's course - N J Wildberger](https://www.youtube.com/playlist?list=PL41FDABC6AA085E78)
+
+### Point Set Topology
+- [Point Set Topology Online Notes with Problems: MAT327 Course Notes](http://www.math.toronto.edu/ivan/mat327/?resources)
 
 ## Geometry
 - [Visual Differential Geometry and Forms: A Mathematical Drama in Five Acts - Tristan Needham](https://www.vdgf.space/)
@@ -651,39 +618,3 @@ https://github.com/lurk-lang/lurk-rs
 - [Deterministic nonperiodic Flow - Edward Lorenz](https://journals.ametsoc.org/doi/pdf/10.1175/1520-0469%281963%29020%3C0130%3ADNF%3E2.0.CO%3B2)
 - [Intermittent transition to turbulence in dissipative dynamical systems - Yves Pomeau, Paul Manneville](https://link.springer.com/article/10.1007%2FBF01197757)
 - [Roads to turbulence in dissipative dynamical systems - Eckmann](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.53.643)
-
-POINT SET TOPOLOGY
-
-Online Notes with Problems: MAT327 Course Notes (http://www.math.toronto.edu/ivan/mat3...)
-
-COMPLEX ANALYSIS
-
-Intro Book: “Visual Complex Functions: an Introduction with Phase Portraits” by Elias Wegert
-More Technical Book: “Complex Analysis” by Serge Lang
-Videos: Wesleyan University Playlist (https://www.youtube.com/playlist?list...)
-
-GROUP THEORY
-
-Book: “Topics in Algebra” by Herstein (Chapter 2)
-Videos: Lectures by Benedict Gross (https://www.youtube.com/playlist?list...)
-
-GALOIS THEORY
-
-Notes by Tom Leinster: https://www.maths.ed.ac.uk/~tl/gt/gt.pdf
-
-DIFFERENTIAL GEOMETRY
-
-Book: Introduction to Differentiable Manifolds and Riemannian Geometry by Boothby
-
-ALGEBRAIC TOPOLOGY
-
-Book: Algebraic Topology by Allen Hatcher (available for free on his website: https://pi.math.cornell.edu/~hatcher/...)
-Videos: Lectures by Pierre Albin (https://www.youtube.com/playlist?list...)
-
-Book: “Understanding Analysis” by Stephen Abbott.
-Videos: Lectures by Francis Su (https://www.youtube.com/playlist?list...)
-
-LINEAR ALGEBRA
-
-Book: “Linear Algebra Done Right” by Sheldon Axler
-Videos: Sheldon Axler’s Playlist
