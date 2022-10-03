@@ -348,8 +348,6 @@ https://plzoo.andrej.com
 https://github.com/andrejbauer/plzoo/
 https://github.com/lurk-lang/lurk-rs
 
-
-
 # Learn Crytography
 
 ## Blogs
@@ -480,7 +478,6 @@ https://github.com/lurk-lang/lurk-rs
 ## Geometry
 - [Visual Differential Geometry and Forms: A Mathematical Drama in Five Acts - Tristan Needham](https://www.vdgf.space/)
 
-
 ## Dynamical systems theory and Chaos
 - [More is different - Anderson](https://t.co/g0vE10UvyA?amp=1)
 - [What is complexity? Remarks on simplicity and complexity - Gell-Man](https://onlinelibrary.wiley.com/doi/abs/10.1002/cplx.6130010105)
@@ -489,6 +486,33 @@ https://github.com/lurk-lang/lurk-rs
 - [Intermittent transition to turbulence in dissipative dynamical systems - Yves Pomeau, Paul Manneville](https://link.springer.com/article/10.1007%2FBF01197757)
 - [Roads to turbulence in dissipative dynamical systems - Eckmann](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.53.643)
 
+POINT SET TOPOLOGY
+
+Online Notes with Problems: MAT327 Course Notes (http://www.math.toronto.edu/ivan/mat3...)
+
+COMPLEX ANALYSIS
+
+Intro Book: “Visual Complex Functions: an Introduction with Phase Portraits” by Elias Wegert
+More Technical Book: “Complex Analysis” by Serge Lang
+Videos: Wesleyan University Playlist (https://www.youtube.com/playlist?list...)
+
+GROUP THEORY
+
+Book: “Topics in Algebra” by Herstein (Chapter 2)
+Videos: Lectures by Benedict Gross (https://www.youtube.com/playlist?list...)
+
+GALOIS THEORY
+
+Notes by Tom Leinster: https://www.maths.ed.ac.uk/~tl/gt/gt.pdf
+
+DIFFERENTIAL GEOMETRY
+
+Book: Introduction to Differentiable Manifolds and Riemannian Geometry by Boothby
+
+ALGEBRAIC TOPOLOGY
+
+Book: Algebraic Topology by Allen Hatcher (available for free on his website: https://pi.math.cornell.edu/~hatcher/...)
+Videos: Lectures by Pierre Albin (https://www.youtube.com/playlist?list...)
 
 # Finance
 - [Bridgewater Associates](https://www.youtube.com/c/Bridgewater/videos)
@@ -527,36 +551,6 @@ LINEAR ALGEBRA
 
 Book: “Linear Algebra Done Right” by Sheldon Axler
 Videos: Sheldon Axler’s Playlist
-(https://www.youtube.com/playlist?list...)
-
-POINT SET TOPOLOGY
-
-Online Notes with Problems: MAT327 Course Notes (http://www.math.toronto.edu/ivan/mat3...)
-
-COMPLEX ANALYSIS
-
-Intro Book: “Visual Complex Functions: an Introduction with Phase Portraits” by Elias Wegert
-More Technical Book: “Complex Analysis” by Serge Lang
-Videos: Wesleyan University Playlist (https://www.youtube.com/playlist?list...)
-
-GROUP THEORY
-
-Book: “Topics in Algebra” by Herstein (Chapter 2)
-Videos: Lectures by Benedict Gross (https://www.youtube.com/playlist?list...)
-
-GALOIS THEORY
-
-Notes by Tom Leinster: https://www.maths.ed.ac.uk/~tl/gt/gt.pdf
-
-DIFFERENTIAL GEOMETRY
-
-Book: Introduction to Differentiable Manifolds and Riemannian Geometry by Boothby
-
-ALGEBRAIC TOPOLOGY
-
-Book: Algebraic Topology by Allen Hatcher (available for free on his website: https://pi.math.cornell.edu/~hatcher/...)
-Videos: Lectures by Pierre Albin (https://www.youtube.com/playlist?list...)
-
 
 # Money and Monetarism
 - [Money - Perry Mehrling](https://youtu.be/f49T53oKIw8)
