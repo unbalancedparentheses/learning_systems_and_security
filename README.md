@@ -1,72 +1,37 @@
 # The best learning resources
 
-# Hacking
+# x86 bare metal
+- [](https://github.com/cirosantilli/x86-bare-metal-examples)
 
-# Security
+# Reverse Engineering
+- [Reverse Engineering ](https://beginners.re/)
 - [Reverse Engineering for Beginners](https://yurichev.com/club/)
 - [Exploit development - Sam Bowne](https://samsclass.info/127/127_S18.shtml)
 - [Binary Exploitation and Memory Corruption - LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
-- [exploit.education](https://exploit.education/)
+- [Insecture Programming](https://github.com/gerasdf/InsecureProgramming)
 
+### Books
+- [Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation by Bruce Dang, Alexandre Gazet, Elias Bachaalany]()
 
 ## Wargames
 - [Over The Wire](https://overthewire.org/wargames/)
 - [Smash the stack](http://smashthestack.org/)
 - [Exploit exercises](https://exploit-exercises.lains.space/)
 
-# Rust
-- [Crust of Rust: Lifetime Annotations](https://www.youtube.com/watch?v=rAl-9HwD858)
+## Exploit development
+- [Smashing the stack for fun and profit](https://insecure.org/stf/smashstack.html)
+- [exploit.education](https://exploit.education/)
 
-# Operating Systems
-- [The little book about OS development](https://littleosbook.github.io/)
+### Books
+- [Hacking, the Art of Exploitation - Jon Erikson]()
+- [The Shellcoders Handbook - Anley, Heasman, Lindner and Richarte]()
+- [Gray Hat Hacking The Ethical Hacker's Handbook]()
+- [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities]()
+    The IDA Pro Book: The Unofficial Guide to the World’s Most Popular Disassembler by Chris Eagle
+    A Bug Hunter’s Diary: A Guided Tour Through the Wilds of Software Security by Tobias Klein
 
-# Distributed Systems
-- [Distributed Systems - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
-- [PingCAP Talent Plan](https://github.com/pingcap/talent-plan)
-- [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos)
-
-# Software
-- [Foundations of Software Engineering](https://cmu-313.github.io/)
-- [Introductory Microcontroller Programming - Peter Alley](https://web.wpi.edu/Pubs/ETD/Available/etd-042811-095908/unrestricted/alley.pdf)
-
-# Game Programming
-- [COMP4300 - Dave Churchill](https://www.youtube.com/watch?v=LpEdZbUdDe4&list=PL_xRyXins848jkwC9Coy7B4N5XTOnQZzz)
-- [GamesWithGabe](https://www.youtube.com/c/GamesWithGabe/playlists)
-
-https://github.com/gerasdf/InsecureProgramming
-
-* Exploit development
-
-Aleph One's "Smashing the stack for fun and profit"
-https://insecure.org/stf/smashstack.html
-
-https://exploit.education/protostar/stack-zero/
-
-Hacking, the Art of Exploitation (Jon Erikson)
-
-The Shellcoders Handbook (Anley, Heasman, Lindner and Richarte)
-
-Gray Hat Hacking The Ethical Hacker's Handbook, Fourth Edition
-
-https://github.com/cirosantilli/x86-bare-metal-examples
-
-The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities (Volume 1 of 2) 1st Edición
-
-https://github.com/cirosantilli/x86-bare-metal-examples
-
-* Ordenar
-
-    Hacking: The Art Of Exploitation by Jon Erickson 87
-
-    A Bug Hunter’s Diary: A Guided Tour Through the Wilds of Software Security by Tobias Klein 41
-
-    The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities by Mark Dowd, John McDonald, Justin Schuh 41
-
-    The IDA Pro Book: The Unofficial Guide to the World’s Most Popular Disassembler by Chris Eagle 24
-
-    The Shellcoder’s Handbook: Discovering and Exploiting Security Holes by Chris Anley , John Heasman, Felix Lindner , Gerardo Richarte 32
-
-    Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation by Bruce Dang, Alexandre Gazet, Elias Bachaalany 48
+## Fuzzing
+- [FuzzySecurity](http://www.fuzzysecurity.com)
 
     https://www.corelan.be/ 652 Fantastic Exploit Development tutorials
 
@@ -75,9 +40,6 @@ https://github.com/cirosantilli/x86-bare-metal-examples
     http://opensecuritytraining.info/ 366 Free courses with lots of content
 
     http://www.securitytube.net/ 250 The Megaprimers are awesome
-
-@0x00pf’s Reverse Engineering 101 60
-
 
 - https://labs.integrity.pt/articles/from-0-day-to-exploit-buffer-overflow-in-belkin-n750-cve-2014-1635/
 
@@ -101,15 +63,9 @@ https://github.com/cirosantilli/x86-bare-metal-examples
 
 - https://blog.skullsecurity.org/category/ctfs
 
-- https://beginners.re/
-
 - https://github.com/RPISEC/MBE
 
 - https://www.reddit.com/r/AskNetsec/comments/5i73db/path_to_exploit_developer/db61ken/
-
-- https://overthewire.org/wargames/leviathan/
-
-- https://overthewire.org/wargames/bandit/
 
 - http://opensecuritytraining.info/LifeOfBinaries.html
 
@@ -174,9 +130,21 @@ https://github.com/cirosantilli/x86-bare-metal-examples
 - https://www.hackthebox.eu/individuals
 
 # Computer Science
-## Learning Distributed Systems
+# Operating Systems
+- [The little book about OS development](https://littleosbook.github.io/)
 
-Thanks to [the paper trail](https://www.the-paper-trail.org/) and [CaitieM](https://caitiem.com/2017/09/07/getting-started-with-distributed-systems/).
+# Software
+- [Foundations of Software Engineering](https://cmu-313.github.io/)
+- [Introductory Microcontroller Programming - Peter Alley](https://web.wpi.edu/Pubs/ETD/Available/etd-042811-095908/unrestricted/alley.pdf)
+
+# Game Programming
+- [COMP4300 - Dave Churchill](https://www.youtube.com/watch?v=LpEdZbUdDe4&list=PL_xRyXins848jkwC9Coy7B4N5XTOnQZzz)
+- [GamesWithGabe](https://www.youtube.com/c/GamesWithGabe/playlists)
+
+# Distributed Systems
+- [Distributed Systems - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- [PingCAP Talent Plan](https://github.com/pingcap/talent-plan)
+- [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos)
 
 ### Basics
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/)
@@ -214,7 +182,6 @@ Proving Liveness Properties of Concurrent Programs
 - [An Erlang implementation of RAFT from WhatsApp](https://github.com/WhatsApp/waraft/blob/main/src/wa_raft_server.erl)
 
 ### Data Structures
-
 - [Distributed Hash Tables](https://www.linuxjournal.com/article/6797)
 
 ### Books
@@ -272,13 +239,9 @@ Proving Liveness Properties of Concurrent Programs
 - [Everything Will Flow - Zach Tellman](https://www.youtube.com/watch?v=1bNOO3xxMc0)
 
 ## Courses
-
-- [PingCAP Talent Plan](https://github.com/pingcap/talent-plan)
-
-- [MIT 6.824](https://pdos.csail.mit.edu/6.824/schedule.html)
-
 - [Aphyr's class](https://github.com/aphyr/distsys-class)
-
+- [PingCAP Talent Plan](https://github.com/pingcap/talent-plan)
+- [MIT 6.824](https://pdos.csail.mit.edu/6.824/schedule.html)
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Others
@@ -292,7 +255,9 @@ Proving Liveness Properties of Concurrent Programs
 - [Quorum](https://en.wikipedia.org/wiki/Quorum_(distributed_computing))
 - [baseds: Exploring the basics of distributed systems](https://medium.com/baseds)
 
-# Learn Compilers
+# Compilers
+
+- [CS143 Compilers](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
 
 https://cs3110.github.io/textbook/cover.html
 
@@ -325,19 +290,18 @@ https://github.com/lurk-lang/lurk-rs
 - compiler for QBE / LLVM
 - Hindley–Milner type system / W Algorithm
 - bittorrent client
-- proof generation
 - dht
 - trees: merkle tree, lsm
 - consensus algorithms: raft
 - crdts
 - snarks / starks
-- use american fuzzy lop
+- american fuzzy lop
 - symbolic execution
 - tla+
 
-# Learn Blockchain
+# Blockchain
 
-## Blockchain and Crypto
+## Introduction
 - [Foundations of Blockchains](https://timroughgarden.github.io/fob21/)
 - [DeFi MOOC](https://www.youtube.com/channel/UCB67PxhB5LAWEbI4etQS7aw/playlists)
 
@@ -431,11 +395,8 @@ https://github.com/lurk-lang/lurk-rs
 
 ## Papers
 - [A Note on Cryptocurrency Stabilisation: Seigniorage Shares - Robert Sams](https://github.com/rmsams/stablecoins/blob/master/paper.pdf)
-## Compilers
-- [CS143 Compilers](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
 
-
-# Learn Crytography
+# Crytography
 
 ## Cryptography
 - [Introduction to Cryptography - Christof Paar](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
