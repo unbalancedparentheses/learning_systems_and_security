@@ -15,6 +15,8 @@
 - [Binary Exploitation and Memory Corruption - LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [Insecture Programming](https://github.com/gerasdf/InsecureProgramming)
 
+- [microcorruption tutorial](https://microcorruption.com/debugger/Tutorial)
+
 ### Books
 - Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation by Bruce Dang, Alexandre Gazet, Elias Bachaalany
 
@@ -125,6 +127,7 @@
 #### Exercises
 - [Toydb](https://github.com/erikgrinaker/toydb)
 - [pea2pea](https://github.com/ljedrz/pea2pea)
+- [geohot/minikeyvalue](https://github.com/geohot/minikeyvalue)
 
 ### TLA+
 - [Leslie Lamport's The TLA+ Video Course](https://www.youtube.com/playlist?list=PLWAv2Etpa7AOAwkreYImYt0gIpOdWQevD)
@@ -344,6 +347,12 @@
 
 ## Cryptography
 - [Introduction to Cryptography - Christof Paar](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
+- [Cryptography I - Dan Boneh](https://www.coursera.org/learn/crypto)
+
+## Exercises
+- [amrayn/mine](https://github.com/amrayn/mine)
+- [mimoo/disco-c](https://github.com/mimoo/disco-c)
+- [LoupVaillant/Monocypher](https://github.com/LoupVaillant/Monocypher)
 
 ## Blogs
 - [Trail of Bits](https://blog.trailofbits.com/)
