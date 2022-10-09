@@ -1,6 +1,8 @@
 # The best learning resources
 
 # x86 bare metal
+- [Programming in assembly language tutorial](https://github.com/mschwartz/assembly-tutorial)
+- [Learning Assembly](https://github.com/danbev/learning-assembly)
 - https://www.nand2tetris.org/
 - [](https://github.com/cirosantilli/x86-bare-metal-examples)
 - https://wiki.skullsecurity.org/Assembly
@@ -8,26 +10,41 @@
 - http://opensecuritytraining.info/LifeOfBinaries.html
 - http://opensecuritytraining.info/IntroX86.html
 
+- [x86 Assembly: Hello World! - John Hammond](https://youtu.be/HgEGAaYdABA)
+- [Quick Tips For Learning Assembly and Reverse Engineering at The Same Time -  OALabs](https://youtu.be/hN9G8MsbgZc)
+
+## Books
+- [Compiling to Assembly from scratch - Vladimir Keleshev]
+
 # Reverse Engineering
+- [Nightmare, intro to reverse engineering course based around ctf challenges](https://guyinatuxedo.github.io/index.html)
 - [Reverse Engineering ](https://beginners.re/)
 - [Reverse Engineering for Beginners](https://yurichev.com/club/)
 - [Exploit development - Sam Bowne](https://samsclass.info/127/127_S18.shtml)
 - [Binary Exploitation and Memory Corruption - LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [Insecture Programming](https://github.com/gerasdf/InsecureProgramming)
-
 - [microcorruption tutorial](https://microcorruption.com/debugger/Tutorial)
+
+## Exercises
+- [Reverse-Engineering-C-challenges](https://github.com/rustymagnet3000/Reverse-Engineering-C-challenges)
+
+## Tools
+- [pwntools - CTF toolkit](https://github.com/Gallopsled/pwntools)
+- [Tutorials for getting started with Pwntools](https://github.com/Gallopsled/pwntools-tutorial)
+
+## Binary exploitation
+- [Smashing the stack for fun and profit](https://insecure.org/stf/smashstack.html)
+- [CNIT 127: Exploit Development](https://samsclass.info/127/127_F15.shtml)
+- [exploit.education](https://exploit.education/)
 
 ### Books
 - Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation by Bruce Dang, Alexandre Gazet, Elias Bachaalany
+- 
 
 ## Wargames
 - [Over The Wire](https://overthewire.org/wargames/)
 - [Smash the stack](http://smashthestack.org/)
 - [Exploit exercises](https://exploit-exercises.lains.space/)
-
-## Exploit development
-- [Smashing the stack for fun and profit](https://insecure.org/stf/smashstack.html)
-- [exploit.education](https://exploit.education/)
 
 ### Books
 - Hacking, the Art of Exploitation - Jon Erikson
