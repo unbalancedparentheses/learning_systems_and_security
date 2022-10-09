@@ -1,6 +1,7 @@
 # The best learning resources
 
-# x86 bare metal
+# Assembly
+- 
 - [Programming in assembly language tutorial](https://github.com/mschwartz/assembly-tutorial)
 - [Learning Assembly](https://github.com/danbev/learning-assembly)
 - https://www.nand2tetris.org/
@@ -23,9 +24,9 @@
 - [Exploit development - Sam Bowne](https://samsclass.info/127/127_S18.shtml)
 - [Binary Exploitation and Memory Corruption - LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [Insecture Programming](https://github.com/gerasdf/InsecureProgramming)
-- [microcorruption tutorial](https://microcorruption.com/debugger/Tutorial)
 
 ## Exercises
+- [microcorruption tutorial](https://microcorruption.com/debugger/Tutorial)
 - [Reverse-Engineering-C-challenges](https://github.com/rustymagnet3000/Reverse-Engineering-C-challenges)
 
 ## Tools
@@ -34,6 +35,7 @@
 
 ## Binary exploitation
 - [Smashing the stack for fun and profit](https://insecure.org/stf/smashstack.html)
+- [MBE: Course materials for Modern Binary Exploitation by RPISEC ](https://github.com/RPISEC/MBE)
 - [CNIT 127: Exploit Development](https://samsclass.info/127/127_F15.shtml)
 - [exploit.education](https://exploit.education/)
 
@@ -59,7 +61,6 @@
 - [LibFuzzer Workshop](https://github.com/Dor1s/libfuzzer-workshop)
 
 # To Organize
-
 - https://www.corelan.be/ 652 Fantastic Exploit Development tutorials
 - http://www.fuzzysecurity.com/ 355 More Great tutorials
 - http://opensecuritytraining.info/ 366 Free courses with lots of content
@@ -93,9 +94,7 @@
 - http://pwnadventure.com/
 - https://github.com/guyinatuxedo/nightmare
 - https://sourcery.pwnadventure.com/
-- https://microcorruption.com/login
 - https://guyinatuxedo.github.io/
-- https://exploit-exercises.lains.space/
 - https://ropemporium.com/
 - https://0x0539.net/
 - https://pwnable.xyz/
@@ -362,7 +361,6 @@
 
 # Crytography
 
-## Cryptography
 - [Introduction to Cryptography - Christof Paar](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
 - [Cryptography I - Dan Boneh](https://www.coursera.org/learn/crypto)
 
@@ -548,3 +546,7 @@
 - [Deterministic nonperiodic Flow - Edward Lorenz](https://journals.ametsoc.org/doi/pdf/10.1175/1520-0469%281963%29020%3C0130%3ADNF%3E2.0.CO%3B2)
 - [Intermittent transition to turbulence in dissipative dynamical systems - Yves Pomeau, Paul Manneville](https://link.springer.com/article/10.1007%2FBF01197757)
 - [Roads to turbulence in dissipative dynamical systems - Eckmann](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.53.643)
+
+# Entrepreneurship
+
+- [Peter Thiel: Going from Zero to One](https://www.youtube.com/watch?v=rFZrL1RiuVI)
