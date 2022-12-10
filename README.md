@@ -1,16 +1,14 @@
 # The best learning resources
 
 # Assembly
-- 
 - [Programming in assembly language tutorial](https://github.com/mschwartz/assembly-tutorial)
 - [Learning Assembly](https://github.com/danbev/learning-assembly)
 - https://www.nand2tetris.org/
-- [](https://github.com/cirosantilli/x86-bare-metal-examples)
+- [x86 bare metal examples](https://github.com/cirosantilli/x86-bare-metal-examples)
 - https://wiki.skullsecurity.org/Assembly
 - https://github.com/RPISEC/MBE
 - http://opensecuritytraining.info/LifeOfBinaries.html
 - http://opensecuritytraining.info/IntroX86.html
-
 - [x86 Assembly: Hello World! - John Hammond](https://youtu.be/HgEGAaYdABA)
 - [Quick Tips For Learning Assembly and Reverse Engineering at The Same Time -  OALabs](https://youtu.be/hN9G8MsbgZc)
 
