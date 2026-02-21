@@ -1,5 +1,23 @@
 # The best learning resources
 
+## Table of Contents
+- [Assembly](#assembly)
+- [Reverse Engineering](#reverse-engineering)
+- [Fuzzing](#fuzzing)
+- [Operating Systems](#operating-systems)
+- [Software Engineering](#software-engineering)
+- [Embedded Systems](#embedded-systems)
+- [Game Programming](#game-programming)
+- [Distributed Systems](#distributed-systems)
+- [Compilers](#compilers)
+- [Blockchain](#blockchain)
+- [Cryptography](#crytography)
+- [Finance](#finance)
+- [Money and Monetarism](#money-and-monetarism)
+- [Geopolitics](#geopolitics)
+- [Mathematics](#mathematics)
+- [Entrepreneurship](#entrepreneurship)
+
 # Assembly
 - [Programming in assembly language tutorial](https://github.com/mschwartz/assembly-tutorial)
 - [Learning Assembly](https://github.com/danbev/learning-assembly)
@@ -11,6 +29,7 @@
 - http://opensecuritytraining.info/IntroX86.html
 - [x86 Assembly: Hello World! - John Hammond](https://youtu.be/HgEGAaYdABA)
 - [Quick Tips For Learning Assembly and Reverse Engineering at The Same Time -  OALabs](https://youtu.be/hN9G8MsbgZc)
+- [From 0x90 to 0x4c454554, a Journey into Reverse Engineering - myne-us](http://www.myne-us.com/2010/08/from-0x90-to-0x4c454554-journey-into.html)
 
 ## Books
 - [Compiling to Assembly from scratch - Vladimir Keleshev]
@@ -22,6 +41,20 @@
 - [Exploit development - Sam Bowne](https://samsclass.info/127/127_S18.shtml)
 - [Binary Exploitation and Memory Corruption - LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [Insecture Programming](https://github.com/gerasdf/InsecureProgramming)
+- [Corelan: Exploit Development Tutorials](https://www.corelan.be/)
+- [OpenSecurityTraining: Free courses with lots of content](http://opensecuritytraining.info/)
+- [SecurityTube Megaprimers](http://www.securitytube.net/)
+- [Violent Python archive](https://web.archive.org/web/20121110045053/http://www.violentpython.org/wordpress/?)
+- [A binary analysis: count me if you can - shell-storm](http://shell-storm.org/blog/A-binary-analysis-count-me-if-you-can/)
+- [SkullSecurity Blog](https://blog.skullsecurity.org/)
+- [Awesome Reversing - tylerha97](https://github.com/tylerha97/awesome-reversing)
+- [Best books, tutorials, and courses for exploit development - pentest.guru](http://www.pentest.guru/index.php/2016/01/28/best-books-tutorials-and-courses-to-learn-about-exploit-development/)
+- [Path to exploit developer - Reddit AskNetsec](https://www.reddit.com/r/AskNetsec/comments/5i73db/path_to_exploit_developer/db61ken/)
+- [SANS Advanced Exploit Development for Penetration Testers](https://www.sans.org/event/sans-europe-pen-test-special-2020/course/advanced-exploit-development-penetration-testers)
+- [Smashing the Browser - demi6od](https://github.com/demi6od/Smashing_The_Browser)
+- [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
+- [BinExp - r0hi7](https://github.com/r0hi7/BinExp)
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 
 ## Exercises
 - [microcorruption tutorial](https://microcorruption.com/debugger/Tutorial)
@@ -36,67 +69,40 @@
 - [MBE: Course materials for Modern Binary Exploitation by RPISEC ](https://github.com/RPISEC/MBE)
 - [CNIT 127: Exploit Development](https://samsclass.info/127/127_F15.shtml)
 - [exploit.education](https://exploit.education/)
+- [Buffer Overflow in Belkin N750 (CVE-2014-1635) - Integrity Labs](https://labs.integrity.pt/articles/from-0-day-to-exploit-buffer-overflow-in-belkin-n750-cve-2014-1635/)
+- [dostackbufferoverflowgood - justinsteven](https://github.com/justinsteven/dostackbufferoverflowgood)
+- [Binary Exploitation (binexp-spring2015) - RPI Security](http://security.cs.rpi.edu/courses/binexp-spring2015/)
+- [CNIT 127: Exploit Development (Fall 2019)](https://samsclass.info/127/127_F19.shtml)
 
 ### Books
 - Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation by Bruce Dang, Alexandre Gazet, Elias Bachaalany
-- 
 
 ## Wargames
 - [Over The Wire](https://overthewire.org/wargames/)
 - [Smash the stack](http://smashthestack.org/)
 - [Exploit exercises](https://exploit-exercises.lains.space/)
+- [PwnAdventure](http://pwnadventure.com/)
+- [PwnAdventure Sourcery](https://sourcery.pwnadventure.com/)
+- [ROP Emporium](https://ropemporium.com/)
+- [0x0539](https://0x0539.net/)
+- [Pwnable.xyz](https://pwnable.xyz/)
+- [HackTheBox](https://www.hackthebox.eu/individuals)
+- [SkullSecurity CTFs](https://blog.skullsecurity.org/category/ctfs)
 
 ### Books
 - Hacking, the Art of Exploitation - Jon Erikson
 - The Shellcoders Handbook - Anley, Heasman, Lindner and Richarte
 - Gray Hat Hacking The Ethical Hacker's Handbook
 - The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities
-- The IDA Pro Book: The Unofficial Guide to the World’s Most Popular Disassembler by Chris Eagle
-- A Bug Hunter’s Diary: A Guided Tour Through the Wilds of Software Security by Tobias Klein
+- The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler by Chris Eagle
+- A Bug Hunter's Diary: A Guided Tour Through the Wilds of Software Security by Tobias Klein
 
 # Fuzzing
 - [FuzzySecurity](http://www.fuzzysecurity.com)
 - [LibFuzzer Workshop](https://github.com/Dor1s/libfuzzer-workshop)
 
 # To Organize
-- https://www.corelan.be/ 652 Fantastic Exploit Development tutorials
-- http://www.fuzzysecurity.com/ 355 More Great tutorials
-- http://opensecuritytraining.info/ 366 Free courses with lots of content
-- http://www.securitytube.net/ 250 The Megaprimers are awesome
-- https://labs.integrity.pt/articles/from-0-day-to-exploit-buffer-overflow-in-belkin-n750-cve-2014-1635/
-- https://web.archive.org/web/20121110045053/http://www.violentpython.org/wordpress/?
-- http://shell-storm.org/blog/A-binary-analysis-count-me-if-you-can/
-- https://samsclass.info/
-- https://blog.skullsecurity.org/
-- https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
-- https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
-- https://github.com/justinsteven/dostackbufferoverflowgood
-- https://blog.skullsecurity.org/category/ctfs
-- https://www.reddit.com/r/AskNetsec/comments/5i73db/path_to_exploit_developer/db61ken/
-- http://www.myne-us.com/2010/08/from-0x90-to-0x4c454554-journey-into.html
-- https://www.reddit.com/r/AskNetsec/comments/5i73db/path_to_exploit_developer/db61ken/
-- https://www.sans.org/event/sans-europe-pen-test-special-2020/course/advanced-exploit-development-penetration-testers
-- https://github.com/tylerha97/awesome-reversing
-- http://www.pentest.guru/index.php/2016/01/28/best-books-tutorials-and-courses-to-learn-about-exploit-development/
-- [](http://security.cs.rpi.edu/courses/binexp-spring2015/)
-- http://opensecuritytraining.info/Exploits1.html
-- https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
-- http://opensecuritytraining.info/Exploits2.html
-- https://github.com/demi6od/Smashing_The_Browser
-- HackerSploit https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q
-- https://samsclass.info/127/127_F19.shtml
-- https://github.com/r0hi7/BinExp
-- https://insecure.org/stf/smashstack.html
-- http://opensecuritytraining.info/
-- https://portswigger.net/web-security
-- http://pwnadventure.com/
-- https://github.com/guyinatuxedo/nightmare
-- https://sourcery.pwnadventure.com/
-- https://guyinatuxedo.github.io/
-- https://ropemporium.com/
-- https://0x0539.net/
-- https://pwnable.xyz/
-- https://www.hackthebox.eu/individuals
+- http://www.fuzzysecurity.com/ - More Great tutorials (see Fuzzing section)
 
 # Operating Systems
 - [The little book about OS development](https://littleosbook.github.io/)
@@ -215,8 +221,7 @@
 ## Others
 - [CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
 - [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
-- [You Can’t Sacrifice Partition Tolerance: In which there are limits to the CAP conjecture](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
-- [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
+- [You Can't Sacrifice Partition Tolerance: In which there are limits to the CAP conjecture](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
 - [Two Generals' Problem](https://en.wikipedia.org/wiki/Two_Generals%27_Problem)
 - [Byzantine fault](https://en.wikipedia.org/wiki/Byzantine_fault)
 - [Vector clock](https://en.wikipedia.org/wiki/Vector_clock)
@@ -454,7 +459,6 @@
 - [Trading Volatility Roughness — Rethinking Statistical Arbitrage - Harel Jacobson](https://volquant.medium.com/trading-volatility-roughness-rethinking-statistical-arbitrage-41a204c93b6d)
 - [A Brief History of Volatility Models - Harel Jacobson](https://volquant.medium.com/a-brief-history-of-volatility-models-cc0bbefe8b90)
 - [A Story of Liquidity, Volatility, and Returns - Nope, it's Lily](https://nope-its-lily.medium.com/a-story-of-liquidity-volatility-and-returns-754e0019c2d0)
-- [A brief history of volatility models - Harel Jacobson](https://volquant.medium.com/a-brief-history-of-volatility-models-cc0bbefe8b90)
 
 # Money and Monetarism
 - [Money - Perry Mehrling](https://youtu.be/f49T53oKIw8)
