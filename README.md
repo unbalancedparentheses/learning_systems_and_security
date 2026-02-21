@@ -1,5 +1,45 @@
 # The best learning resources
 
+# Not yet reviewed
+
+> These resources were recently found and have not been reviewed yet. They will be organized into the appropriate sections after review.
+
+### Reverse Engineering & Security
+- [OpenSecurityTraining2](https://p.ost2.fyi/courses) - Free, university-quality curriculum on x86/x64 architecture, Windows/Linux kernel internals, and exploitation
+- [pwn.college](https://pwn.college/) - 1000+ structured challenges covering shellcode, sandboxing, memory corruption, and kernel pwn
+- [LibAFL: A Framework to Build Modular and Reusable Fuzzers (CCS 2022)](https://www.s3.eurecom.fr/docs/ccs22_fioraldi.pdf) - Rust-based composable fuzzing library replacing AFL++
+- [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation) - Continuously maintained reference index of Linux kernel exploitation techniques and CVEs
+
+### Assembly & Low-Level
+- [RISC-V Assembly Programming](https://riscv-programming.org/) - Free textbook teaching assembly through the modern RISC-V ISA
+- [Rust Atomics and Locks - Mara Bos (O'Reilly, free online)](https://maras.nl/atomics/) - Definitive treatment of low-level concurrency: atomics, memory ordering, building OS primitives in Rust
+- [Learning eBPF - Liz Rice (O'Reilly)](https://cilium.isovalent.com/hubfs/Learning-eBPF%20-%20Full%20book.pdf) - Practical introduction to eBPF for tracing, networking, and security
+
+### Distributed Systems
+- [Gossip Glomers — Fly.io Distributed Systems Challenges](https://fly.io/dist-sys/) - Hands-on challenges built on Maelstrom (Jepsen) covering broadcast, CRDTs, Kafka logs, and transactional KV
+- [FoundationDB: A Distributed Unbundled Transactional Key Value Store (SIGMOD 2021)](https://dl.acm.org/doi/10.1145/3592838) - Architecture paper on simulation testing, deterministic replay, and the record layer
+- [Log-structured Protocols in Delos (OSDI 2021)](https://ceres.cs.umd.edu/818/papers/delos.pdf) - How Meta built a layered, reconfigurable consensus system
+- [Zanzibar: Google's Consistent, Global Authorization System](https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/) - Spawned SpiceDB, OpenFGA, and the entire Zanzibar-like authorization category
+
+### Compilers
+- [CS 6120: Advanced Compilers (Cornell) - Adrian Sampson](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/) - PhD-level compiler course covering SSA, dataflow, LLVM passes
+- [MLIR Getting Started - Jeremy Kun](https://www.jeremykun.com/2023/08/10/mlir-getting-started/) - Clearest introduction to MLIR concepts and dialect system
+- [SSA-based Compiler Design (free PDF)](https://pfalcon.github.io/ssabook/latest/book.pdf) - Comprehensive academic treatment of SSA form in optimizing compilers
+
+### Cryptography
+- [Proofs, Arguments, and Zero-Knowledge - Justin Thaler (free PDF)](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html) - Most rigorous textbook on interactive proofs, SNARKs, and ZK arguments
+- [ZK-Learning MOOC (Berkeley CS294)](https://rdi.berkeley.edu/zk-learning/) - Full university course on ZKP foundations through practical SNARKs and STARKs
+- [MIT IAP: Modern Zero Knowledge Cryptography](https://zkiap.com/) - MIT intensive on elliptic curves, polynomial commitments, Groth16, PLONK, Halo2
+
+### Mathematics
+- [Neural Networks: Zero to Hero - Andrej Karpathy](https://karpathy.ai/zero-to-hero.html) - Builds backprop, micrograd, GPT from scratch in pure Python
+- [Freya Holmer: Math for Game Devs](https://www.youtube.com/@acegikmo) - Outstanding visual course on vectors, matrices, splines, quaternions
+- [The Nature of Code (2nd ed., 2024) - Daniel Shiffman](https://natureofcode.com/) - Physics simulations, autonomous agents, genetic algorithms through creative coding
+
+### Game Programming
+- [Inigo Quilez: Articles on SDFs, Raymarching & Shaders](https://iquilezles.org/articles/) - Best online reference for distance field rendering and procedural graphics by Shadertoy co-creator
+- [Graphics Programming community resources](https://graphicsprogramming.github.io/resources/) - Community-curated index of rendering papers, API guides, and GPU architecture references
+
 ## Table of Contents
 - [Assembly](#assembly)
 - [Reverse Engineering](#reverse-engineering)
