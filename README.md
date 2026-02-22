@@ -1,6 +1,6 @@
 # Learning Systems and Security
 
-A curated collection of learning resources for systems programming, security, cryptography, mathematics, and related topics.
+A curated collection of learning resources for systems programming, security, cryptography, and related topics.
 
 ## Table of Contents
 - [Assembly](#assembly)
@@ -14,7 +14,6 @@ A curated collection of learning resources for systems programming, security, cr
 - [Compilers](#compilers)
 - [Blockchain](#blockchain)
 - [Cryptography](#cryptography)
-- [Mathematics](#mathematics)
 - [Entrepreneurship](#entrepreneurship)
 - [Other Topics](#other-topics)
 
@@ -422,88 +421,6 @@ A curated collection of learning resources for systems programming, security, cr
 - [Crypto Screencasts - David Wong](https://www.youtube.com/playlist?list=PLBJMt6zV1c7FN3IjBDr9lydgqGzh_SqHV) - Short video explanations of cryptographic concepts including hash functions, MACs, and key exchange
 - [ZK docs](https://www.zkdocs.com/) - Community-maintained documentation hub for zero-knowledge proof systems and implementations
 
-## Mathematics
-
-- [The two cultures of mathematics](https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf) - Timothy Gowers' essay contrasting problem-solving and theory-building approaches in mathematics
-- [Introduction to Computational Thinking - Alan Edelman, David P. Sanders and Charles E. Leiserson](https://computationalthinking.mit.edu/Spring21/) - MIT course teaching computational thinking through Julia with applications in data science and modeling
-- [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/) - Gilbert Strang's MIT course on matrix decompositions, deep learning, and optimization
-
-### Linear Algebra
-- [Essence of linear algebra - 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Visual series building geometric intuition for vectors, linear transformations, eigenvalues, and determinants
-- [Linear Algebra - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRjxJ_sMtJ02geqw_-vuB7O) - Engineering-focused linear algebra covering SVD, PCA, and applications to data-driven methods
-- [Introduction to Applied Linear Algebra - Stephen Boyd](https://www.youtube.com/watch?v=oR6G1MUMveE&list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) - Stanford course covering vectors, matrices, least squares, and applications in data fitting and control
-- [Linear Algebra Done Right - Sheldon Axler](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw) - Proof-based linear algebra emphasizing vector spaces and linear maps over determinant-heavy approaches
-
-### Analysis
-- [The Essence of Calculus - 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) - Visual series building intuition for derivatives, integrals, and the fundamental theorem of calculus
-- [Measure theory - The Bright Side Of Mathematics](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j) - Step-by-step introduction to sigma-algebras, measures, Lebesgue integration, and convergence theorems
-- [Functional Analysis - The Bright Side Of Mathematics](https://www.youtube.com/watch?v=yDdxFBcvSGw&list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr) - Covers Banach spaces, Hilbert spaces, bounded operators, and the spectral theorem
-- [Distributions theory - The Bright Side Of Mathematics](https://www.youtube.com/watch?v=gwVEEUg8PBY&list=PLBh2i93oe2qsbptdcvFlowCl51EX_a3nB) - Introduction to distributions (generalized functions), test functions, and the Dirac delta
-
-### Complex Analysis and Fourier
-- [Complex analysis - Richard E. Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj51F9XZ_Ka4bLnQoxTdMx0AL) - Fields medalist's lecture series covering analytic functions, contour integrals, and residue theory
-- [Fourier Analysis - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC) - Covers Fourier series, Fourier transform, FFT, and applications to signal processing and PDEs
-- [Visual Complex Functions: an Introduction with Phase Portraits - Elias Wegert](https://www.goodreads.com/book/show/12353218-visual-complex-functions?from_search=true&from_srp=true&qid=04GqQgkIBM&rank=1) - Introduces complex analysis through colorful phase portraits that visualize analytic functions
-- [Complex Analysis - Serge Lang](https://cloudflare-ipfs.com/ipfs/bafykbzacebds7eaero37rx6fztl2wg36h4yklf7ilwjsrjl654etvz4omqzfm?filename=%28Graduate%20Texts%20in%20Mathematics%20103%29%20Serge%20Lang%20-%20Complex%20Analysis-Springer%20%282003%29.pdf) - Graduate-level textbook covering Cauchy's theorem, conformal mappings, and Riemann surfaces
-
-### Probability and Statistics
-- [Probability The Science of Uncertainty and Data - John Tsitsiklis](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data) - MIT course covering probability axioms, random variables, Bayesian inference, and limit theorems
-- [Fundamentals of Statistics - Philippe Rigollet](https://www.edx.org/course/fundamentals-of-statistics) - MIT course on statistical estimation, hypothesis testing, and confidence intervals
-- [Random Walks - Santa Fe Institute](https://www.complexityexplorer.org/courses/46-random-walks) - Course on random walk theory and its applications in physics, biology, and finance
-- [The Logic of Science by E.T. Jaynes](https://www.youtube.com/watch?v=rfKS69cIwHc&list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_) - Video series on Bayesian probability as extended logic, based on Jaynes' foundational textbook
-
-### Machine Learning and Deep Learning
-- [Introduction to Statistical Learning Series - Robert Tibshirani and Trevor Hastie](https://www.youtube.com/watch?v=5N9V07EIfIg&list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V) - Stanford course covering regression, classification, resampling, tree methods, and unsupervised learning
-- [Practical Deep Learning for Coders](https://course.fast.ai/) - Fast.ai's top-down course teaching deep learning with PyTorch through practical applications first
-- [Part 2: Deep Learning from the Foundations](https://course19.fast.ai/part2) - Fast.ai's advanced course rebuilding deep learning frameworks from scratch, covering backprop and optimizers
-- [Geometric Deep Learning - Michael Bronstein](https://youtu.be/PtA0lg_e5nA?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3) - Unifying framework for deep learning on graphs, meshes, groups, and manifolds
-
-### Complexity and Dynamical Systems
-- [Nonlinear Dynamics: Mathematical and Computational Approaches - Santa Fe Institute](https://www.complexityexplorer.org/courses/115-nonlinear-dynamics-mathematical-and-computational-approaches) - Course on bifurcations, chaos, fractals, and numerical methods for nonlinear systems
-- [Introduction to Dynamical Systems and Chaos - Santa Fe Institute](https://www.complexityexplorer.org/courses/105-introduction-to-dynamical-systems-and-chaos) - Introductory course covering iterated maps, strange attractors, and the onset of chaos
-- [Data-Driven Dynamical Systems Overview - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR6DzT17-MM1GHLkuYVjhyt) - Using machine learning and data analysis to discover dynamical systems models from measurements
-- [Parallel Computing and Scientific Machine Learning - MIT 18.337J](https://github.com/mitmath/18337) - MIT course combining parallel computing, differential equations, and neural network approaches
-
-### Abstract Algebra
-- [Abstract Algebra - Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6) - Short, clear videos introducing groups, rings, and fields with motivating examples
-- [Abstract (Modern) Algebra - Bill Kinney](https://www.youtube.com/playlist?list=PLmU0FIlJY-Mn3Pt-r5zQ_-Ar8mAnBZTf2) - Full lecture course covering groups, rings, fields, and Galois theory at the undergraduate level
-- [Rings and modules - Richard E. Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj52XDLrmvrFDgwcf6XOm2TEE) - Graduate-level lectures on ring theory, modules, and their applications in algebra
-- [Abstract Algebra - Michael Artin](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5) - MIT lectures based on Artin's textbook covering groups, symmetry, linear algebra, and rings
-- [Visual Group Theory - Matthew Macauley](https://www.youtube.com/playlist?list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv) - Group theory taught visually using Cayley diagrams, symmetry, and geometric intuition
-
-#### Books
-- [Algebra - Serge Lang](https://www.wiley.com/en-au/Abstract+Algebra,+3rd+Edition-p-9780471433347) - Comprehensive graduate algebra textbook covering groups, rings, modules, fields, and Galois theory
-- [Topics in Algebra - Herstein](https://www.amazon.com/Topics-Algebra-2nd-I-Herstein/dp/0471010901) - Classic undergraduate algebra text known for rigorous treatment of groups, rings, and field extensions
-
-### Number Theory
-- [Elementary Number Theory: Primes, Congruences, and Secrets - William Stein](https://wstein.org/ent/ent.pdf) - Free textbook covering primes, modular arithmetic, and cryptographic applications using Sage
-- [Algebraic Number Theory](https://www.jmilne.org/math/CourseNotes/ANT.pdf) - Milne's graduate notes on number fields, rings of integers, Dedekind domains, and class field theory
-- [Introduction to number theory - Richard E. Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8) - Lecture series covering divisibility, primes, congruences, and quadratic reciprocity
-- [Theory of numbers - Richard E. Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj52Qf7lc3HHvHRdIysxEcj1H) - Advanced number theory lectures covering algebraic integers, p-adic numbers, and zeta functions
-
-### Real Analysis
-- [Real Analysis: Lectures by Professor Francis Su](https://www.youtube.com/playlist?list=PL0E754696F72137EC) - Full course on sequences, continuity, compactness, and metric spaces with elegant proofs
-
-### Category Theory
-- [Categories for the idle mathematician - Richard E. Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj51F9XZ_Ka4bLnQoxTdMx0AL) - Accessible introduction to categories, functors, natural transformations, and adjunctions
-
-### Topology
-- [Algebraic Topology: a beginner's course - N J Wildberger](https://www.youtube.com/playlist?list=PL41FDABC6AA085E78) - Introductory course covering simplicial complexes, homology groups, and the fundamental group
-
-#### Point Set Topology
-- [Point Set Topology Online Notes with Problems: MAT327 Course Notes](http://www.math.toronto.edu/ivan/mat327/?resources) - Course notes covering topological spaces, continuity, compactness, connectedness, and metric spaces
-
-### Geometry
-- [Visual Differential Geometry and Forms: A Mathematical Drama in Five Acts - Tristan Needham](https://www.vdgf.space/) - Geometric and visual approach to differential geometry, curvature, and differential forms
-
-### Dynamical Systems Theory and Chaos
-- [More is different - Anderson](https://t.co/g0vE10UvyA?amp=1) - Classic paper arguing that complexity at each scale requires fundamentally new laws, not just more particles
-- [What is complexity? Remarks on simplicity and complexity - Gell-Man](https://onlinelibrary.wiley.com/doi/abs/10.1002/cplx.6130010105) - Nobel laureate's essay defining different notions of complexity and their relationships
-- [Numerical Evidence That the Motion of Pluto Is Chaotic - Gerald Jay Sussman, Jack Wisdom](https://web.mit.edu/wisdom/www/pluto-chaos.pdf) - Demonstrates through numerical integration that Pluto's orbit exhibits chaotic behavior over millions of years
-- [Deterministic nonperiodic Flow - Edward Lorenz](https://journals.ametsoc.org/doi/pdf/10.1175/1520-0469%281963%29020%3C0130%3ADNF%3E2.0.CO%3B2) - The foundational 1963 paper discovering deterministic chaos in a simple atmospheric convection model
-- [Intermittent transition to turbulence in dissipative dynamical systems - Yves Pomeau, Paul Manneville](https://link.springer.com/article/10.1007%2FBF01197757) - Describes the Type I intermittency route to chaos through tangent bifurcations near periodic orbits
-- [Roads to turbulence in dissipative dynamical systems - Eckmann](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.53.643) - Review of the main scenarios by which laminar flow transitions to turbulent chaos
-
 ## Entrepreneurship
 
 - [Peter Thiel: Going from Zero to One](https://www.youtube.com/watch?v=rFZrL1RiuVI) - Thiel's talk on building monopoly businesses by creating new value rather than competing in existing markets
@@ -576,11 +493,6 @@ A curated collection of learning resources for systems programming, security, cr
 - [ZK-Learning MOOC (Berkeley CS294)](https://rdi.berkeley.edu/zk-learning/) - Full university course on ZKP foundations through practical SNARKs and STARKs
 - [MIT IAP: Modern Zero Knowledge Cryptography](https://zkiap.com/) - MIT intensive on elliptic curves, polynomial commitments, Groth16, PLONK, Halo2
 
-### Mathematics
-- [Neural Networks: Zero to Hero - Andrej Karpathy](https://karpathy.ai/zero-to-hero.html) - Builds backprop, micrograd, GPT from scratch in pure Python
-- [Freya Holmer: Math for Game Devs](https://www.youtube.com/@acegikmo) - Outstanding visual course on vectors, matrices, splines, quaternions
-- [The Nature of Code (2nd ed., 2024) - Daniel Shiffman](https://natureofcode.com/) - Physics simulations, autonomous agents, genetic algorithms through creative coding
-
 ### Game Programming
 - [Inigo Quilez: Articles on SDFs, Raymarching & Shaders](https://iquilezles.org/articles/) - Best online reference for distance field rendering and procedural graphics by Shadertoy co-creator
 - [Graphics Programming community resources](https://graphicsprogramming.github.io/resources/) - Community-curated index of rendering papers, API guides, and GPU architecture references
@@ -601,8 +513,6 @@ A curated collection of learning resources for systems programming, security, cr
 - [Asterinas: Linux ABI-Compatible Rust-Based Framekernel OS (USENIX ATC 2025)](https://github.com/asterinas/asterinas) - Confines unsafe Rust to ~14% of codebase; supports 210+ Linux syscalls with performance on par with Linux
 - [Verus: Practical Foundation for Systems Verification (SOSP 2024)](https://github.com/verus-lang/verus) - Verification for Rust code 3-61x faster than prior art; case studies in distributed systems, OS, storage
 - [Atmosphere: Practical Verified Kernels with Rust and Verus (SOSP 2025)](https://dl.acm.org/doi/10.1145/3731569.3764821) - L4-style microkernel verified in Rust/Verus with 7.5:1 proof-to-code ratio in ~2 person-years
-- [Mathematics in Lean (Lean 4 / Mathlib)](https://leanprover-community.github.io/mathematics_in_lean/) - Interactive textbook for formalizing mathematics in Lean 4 using Mathlib (210,000+ theorems)
-
 ### Security, Fuzzing & Reverse Engineering (New)
 - [Rust-for-Linux: Success, Dissatisfaction, and Compromise (USENIX ATC 2024)](https://www.usenix.org/system/files/atc24-li-hongyu.pdf) - Examines 240 driver vulnerabilities and evaluates Rust's actual safety impact in the Linux kernel
 - [MOCK: Optimizing Kernel Fuzzing Mutation with Context-aware Dependency (NDSS 2024)](https://www.ndss-symposium.org/wp-content/uploads/2024-131-paper.pdf) - Context-aware syscall mutation achieving 32% branch coverage growth over state-of-the-art
@@ -617,6 +527,3 @@ A curated collection of learning resources for systems programming, security, cr
 ### WebAssembly (New)
 - [WASI 0.2 and the WebAssembly Component Model (2024)](https://component-model.bytecodealliance.org/) - Stable release with Component Model for CLI, sockets, clocks; WASI 0.3 adds native async
 
-### Mathematics (New)
-- [Math for Programming - Ronald T. Kneusel (No Starch Press, 2025)](https://nostarch.com/math-programming) - Vectors/matrices, calculus for optimization, graph theory, probability with algorithm applications
-- [Formalising Mathematics 2024 - Kevin Buzzard (Imperial College, Lean 4)](https://github.com/ImperialCollegeLondon/formalising-mathematics-2024) - Full course on formalizing math in Lean 4 with Mathlib exercises and projects
