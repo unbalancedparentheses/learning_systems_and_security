@@ -42,6 +42,42 @@ A curated collection of learning resources for systems programming, security, cr
 - [Inigo Quilez: Articles on SDFs, Raymarching & Shaders](https://iquilezles.org/articles/) - Best online reference for distance field rendering and procedural graphics by Shadertoy co-creator
 - [Graphics Programming community resources](https://graphicsprogramming.github.io/resources/) - Community-curated index of rendering papers, API guides, and GPU architecture references
 
+### Distributed Systems (New)
+- [The Art of the Fugue: Minimizing Interleaving in Collaborative Text Editing - Weidner & Kleppmann (IEEE TPDS, 2025)](https://arxiv.org/abs/2305.00583) - Fugue/FugueMax CRDT algorithms with maximal non-interleaving correctness for replicated lists
+- [Loro: High-Performance CRDTs in Rust](https://github.com/loro-dev/loro) - Rust CRDT library integrating Fugue, Eg-walker, and rich text CRDTs; alternative to Yjs/Automerge
+- [PowerInfer: Fast LLM Serving with Consumer-grade GPU (SOSP 2024)](https://dl.acm.org/doi/10.1145/3694715.3695964) - Exploits power-law neuron activation for GPU-CPU hybrid inference; up to 11.69x speedup on RTX 4090
+- [TigerBeetle: Deterministic Simulation Testing](https://github.com/tigerbeetle/tigerbeetle) - Financial transactions database in Zig with VOPR simulation testing; 3.3s simulation covers 39min real-world. See also [Phil Eaton's overview](https://notes.eatonphil.com/2024-08-20-deterministic-simulation-testing.html)
+
+### Compilers & Languages (New)
+- [The MLIR Transform Dialect (CGO 2025)](https://2025.cgo.org/details/cgo-2025-papers/7/) - Controllable IR-based transformation system within MLIR for fine-grained compiler control
+- [First-Class Verification Dialects for MLIR (PLDI 2025)](https://users.cs.utah.edu/~regehr/papers/pldi25.pdf) - Integrates formal verification methods directly into MLIR's dialect framework
+- [Mojo Programming Language](https://docs.modular.com/mojo/) - Chris Lattner's MLIR-native systems language for AI workloads; compiles to GPUs, TPUs, ASICs
+- [Zig Self-Hosted x86_64 Backend (2025)](https://ziglang.org/devlog/2025/) - Native x86 backend passes more tests than LLVM backend; incremental compilation approaching default-on
+
+### Operating Systems & Formal Verification (New)
+- [Asterinas: Linux ABI-Compatible Rust-Based Framekernel OS (USENIX ATC 2025)](https://github.com/asterinas/asterinas) - Confines unsafe Rust to ~14% of codebase; supports 210+ Linux syscalls with performance on par with Linux
+- [Verus: Practical Foundation for Systems Verification (SOSP 2024)](https://github.com/verus-lang/verus) - Verification for Rust code 3-61x faster than prior art; case studies in distributed systems, OS, storage
+- [Atmosphere: Practical Verified Kernels with Rust and Verus (SOSP 2025)](https://dl.acm.org/doi/10.1145/3731569.3764821) - L4-style microkernel verified in Rust/Verus with 7.5:1 proof-to-code ratio in ~2 person-years
+- [Mathematics in Lean (Lean 4 / Mathlib)](https://leanprover-community.github.io/mathematics_in_lean/) - Interactive textbook for formalizing mathematics in Lean 4 using Mathlib (210,000+ theorems)
+
+### Security, Fuzzing & Reverse Engineering (New)
+- [Rust-for-Linux: Success, Dissatisfaction, and Compromise (USENIX ATC 2024)](https://www.usenix.org/system/files/atc24-li-hongyu.pdf) - Examines 240 driver vulnerabilities and evaluates Rust's actual safety impact in the Linux kernel
+- [MOCK: Optimizing Kernel Fuzzing Mutation with Context-aware Dependency (NDSS 2024)](https://www.ndss-symposium.org/wp-content/uploads/2024-131-paper.pdf) - Context-aware syscall mutation achieving 32% branch coverage growth over state-of-the-art
+- [LLM4Decompile: Decompiling Binary Code with LLMs (2024)](https://github.com/albertan017/LLM4Decompile) - Open-source LLM (1.3B-33B) for binary decompilation outperforming GPT-4o and Ghidra by 100%+ on re-executability
+
+### AI/ML Systems (New)
+- [FlashAttention-3: Fast Attention with Asynchrony and Low-precision (NeurIPS 2024 Spotlight)](https://arxiv.org/abs/2407.08608) - Exploits Hopper GPU asynchrony and FP8; 1.5-2.0x faster than FlashAttention-2 on H100
+- [SGLang: Efficient Execution of Structured LM Programs (2024)](https://arxiv.org/abs/2312.07104) - RadixAttention for KV cache reuse and compressed FSMs for constrained decoding; up to 5x throughput vs vLLM
+- [DSPy: Compiling Declarative LM Calls into Self-Improving Pipelines (ICLR 2024)](https://github.com/stanfordnlp/dspy) - Stanford framework for programming LLMs with automatic prompt/weight optimization
+- [Towards Efficient Generative LLM Serving: A Survey (ACM Computing Surveys, 2025)](https://dl.acm.org/doi/10.1145/3754448) - Comprehensive survey covering decoding, quantization, parallelism, memory, and scheduling
+
+### WebAssembly (New)
+- [WASI 0.2 and the WebAssembly Component Model (2024)](https://component-model.bytecodealliance.org/) - Stable release with Component Model for CLI, sockets, clocks; WASI 0.3 adds native async
+
+### Mathematics (New)
+- [Math for Programming - Ronald T. Kneusel (No Starch Press, 2025)](https://nostarch.com/math-programming) - Vectors/matrices, calculus for optimization, graph theory, probability with algorithm applications
+- [Formalising Mathematics 2024 - Kevin Buzzard (Imperial College, Lean 4)](https://github.com/ImperialCollegeLondon/formalising-mathematics-2024) - Full course on formalizing math in Lean 4 with Mathlib exercises and projects
+
 ## Table of Contents
 - [Assembly](#assembly)
 - [Reverse Engineering](#reverse-engineering)
