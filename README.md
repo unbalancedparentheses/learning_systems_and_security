@@ -76,7 +76,7 @@ A curated collection of learning resources for systems programming, security, cr
 - [CNIT 127: Exploit Development (Fall 2019)](https://samsclass.info/127/127_F19.shtml) - Updated exploit development course with modern techniques and mitigations
 
 #### Books
-- Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation by Bruce Dang, Alexandre Gazet, Elias Bachaalany - Covers processor internals, Windows kernel reversing, and code obfuscation analysis techniques
+- [Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation - Bruce Dang, Alexandre Gazet, Elias Bachaalany](https://www.wiley.com/en-us/Practical+Reverse+Engineering:+x86,+x64,+ARM,+Windows+Kernel,+Reversing+Tools,+and+Obfuscation-p-9781118787311) - Covers processor internals, Windows kernel reversing, and code obfuscation analysis techniques
 
 ### Wargames
 - [Over The Wire](https://overthewire.org/wargames/) - Progressive wargames teaching Linux command line, networking, and binary exploitation skills
@@ -91,12 +91,12 @@ A curated collection of learning resources for systems programming, security, cr
 - [SkullSecurity CTFs](https://blog.skullsecurity.org/category/ctfs) - CTF writeups and challenge archives for learning offensive security techniques
 
 #### Books
-- Hacking, the Art of Exploitation - Jon Erikson - Teaches C programming, networking, and exploitation from first principles with hands-on examples
-- The Shellcoders Handbook - Anley, Heasman, Lindner and Richarte - Comprehensive guide to finding and exploiting security holes across platforms and architectures
-- Gray Hat Hacking The Ethical Hacker's Handbook - Covers vulnerability discovery, reverse engineering, and exploit development for ethical hackers
-- The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities - Exhaustive guide to auditing source code for security flaws in C/C++ and web applications
-- The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler by Chris Eagle - Complete guide to using IDA Pro for disassembly, scripting, and reverse engineering workflows
-- A Bug Hunter's Diary: A Guided Tour Through the Wilds of Software Security by Tobias Klein - Real stories of finding bugs in VLC, Solaris kernel, iOS, and other major software
+- [Hacking, the Art of Exploitation - Jon Erikson](https://nostarch.com/hacking2.htm) - Teaches C programming, networking, and exploitation from first principles with hands-on examples
+- [The Shellcoders Handbook - Anley, Heasman, Lindner and Richarte](https://www.amazon.com/Shellcoders-Handbook-Discovering-Exploiting-Security/dp/047008023X) - Comprehensive guide to finding and exploiting security holes across platforms and architectures
+- [Gray Hat Hacking The Ethical Hacker's Handbook](https://www.amazon.com/Gray-Hat-Hacking-Ethical-Handbook/dp/1264268947) - Covers vulnerability discovery, reverse engineering, and exploit development for ethical hackers
+- [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilities/dp/0321444426) - Exhaustive guide to auditing source code for security flaws in C/C++ and web applications
+- [The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler - Chris Eagle](https://nostarch.com/idapro2.htm) - Complete guide to using IDA Pro for disassembly, scripting, and reverse engineering workflows
+- [A Bug Hunter's Diary: A Guided Tour Through the Wilds of Software Security - Tobias Klein](https://nostarch.com/bughunter) - Real stories of finding bugs in VLC, Solaris kernel, iOS, and other major software
 
 ## Fuzzing
 
@@ -155,7 +155,7 @@ A curated collection of learning resources for systems programming, security, cr
 - [Three phase commit](https://www.the-paper-trail.org/post/2008-11-29-consensus-protocols-three-phase-commit/) - Explains how 3PC avoids 2PC's blocking problem by adding a pre-commit phase
 - [Paxos](https://www.the-paper-trail.org/post/2009-02-03-consensus-protocols-paxos/) - Accessible explanation of the Paxos consensus algorithm and its correctness properties
 - [Chubby](https://ai.google/research/pubs/pub27897) - Google's distributed lock service built on Paxos, used for leader election and metadata storage
-- Zookeeper - Apache's coordination service for distributed applications providing configuration, naming, and locks
+- [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf) - Apache's coordination service for distributed applications providing configuration, naming, and locks
 - [A Quorum-based Commit Protocol](https://ecommons.library.cornell.edu/bitstream/1813/6323/1/82-483.pdf) - Proposes using quorum-based voting instead of unanimous agreement for distributed commit
 - [Bully algorithm](https://en.wikipedia.org/wiki/Bully_algorithm) - Simple leader election algorithm where the process with the highest ID becomes coordinator
 - [How to Build a Highly Available System Using Consensus](https://www.microsoft.com/en-us/research/publication/how-to-build-a-highly-available-system-using-consensus/) - Practical guide to using consensus protocols for building fault-tolerant replicated state machines
@@ -163,14 +163,14 @@ A curated collection of learning resources for systems programming, security, cr
 - [Atomic broadcast](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.3.4709&rep=rep1&type=pdf) - Defines total order broadcast and proves its equivalence to consensus
 - [Gossip](http://bitsavers.informatik.uni-stuttgart.de/pdf/xerox/parc/techReports/CSL-89-1_Epidemic_Algorithms_for_Replicated_Database_Maintenance.pdf) - Xerox PARC paper on epidemic algorithms for efficient replicated database maintenance
 - [Chain Replication for Supporting High Throughput and Availability](http://www.cs.cornell.edu/home/rvr/papers/OSDI04.pdf) - Replication protocol that achieves high throughput by chaining updates through an ordered sequence of servers
-- The Part-Time Parliament - Lamport's original Paxos paper describing consensus through the metaphor of a Greek parliament
-- Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems - Introduces view-change-based replication as an alternative to Paxos for state machine replication
-- Fast Paxos - Extends classic Paxos to reduce message delays by allowing clients to send directly to acceptors
-- Paxos Made Moderately Complex - Step-by-step description of a complete, implementable Paxos-based replicated state machine
-- Distributed Snapshots: Determining Global States of Distributed Systems - The Chandy-Lamport snapshot algorithm for capturing consistent global state in a distributed system
-- Forward and Backward Simulations Part I: Untimed Systems - Formal framework for proving correctness of concurrent systems using simulation relations
-- An Axiomatic Proof Technique for Parallel Programs I - Foundational work on Owicki-Gries method for verifying shared-variable parallel programs
-- Proving Liveness Properties of Concurrent Programs - Techniques for proving that concurrent programs eventually make progress using well-founded orderings
+- [The Part-Time Parliament - Leslie Lamport](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) - Lamport's original Paxos paper describing consensus through the metaphor of a Greek parliament
+- [Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems](http://www.pmg.csail.mit.edu/papers/vr.pdf) - Introduces view-change-based replication as an alternative to Paxos for state machine replication
+- [Fast Paxos - Leslie Lamport](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2005-112.pdf) - Extends classic Paxos to reduce message delays by allowing clients to send directly to acceptors
+- [Paxos Made Moderately Complex - Robbert van Renesse, Deniz Altinbuken](https://www.cs.cornell.edu/home/rvr/Paxos/paxos.pdf) - Step-by-step description of a complete, implementable Paxos-based replicated state machine
+- [Distributed Snapshots: Determining Global States of Distributed Systems - Chandy, Lamport](https://lamport.azurewebsites.net/pubs/chandy.pdf) - The Chandy-Lamport snapshot algorithm for capturing consistent global state in a distributed system
+- [Forward and Backward Simulations Part I: Untimed Systems - Lynch, Vaandrager](https://groups.csail.mit.edu/tds/papers/Lynch/TM-486.pdf) - Formal framework for proving correctness of concurrent systems using simulation relations
+- [An Axiomatic Proof Technique for Parallel Programs I - Owicki, Gries](https://link.springer.com/article/10.1007/BF00268134) - Foundational work on Owicki-Gries method for verifying shared-variable parallel programs
+- [Proving Liveness Properties of Concurrent Programs - Owicki, Lamport](https://lamport.azurewebsites.net/pubs/liveness.pdf) - Techniques for proving that concurrent programs eventually make progress using well-founded orderings
 
 ### Exercises
 - [Toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database built from scratch in Rust with Raft consensus and MVCC transactions
@@ -222,9 +222,9 @@ A curated collection of learning resources for systems programming, security, cr
 
 ### Books
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/) - Free concise ebook covering time, replication, consistency models, and fault tolerance fundamentals
-- Designing Data Intensive Applications - Martin Kleppmann - Covers storage engines, replication, partitioning, transactions, and stream processing for modern data systems
-- Replication: Theory and Practice - Comprehensive academic treatment of data replication techniques, consistency models, and fault tolerance
-- Introduction to Reliable and Secure Distributed Programming - Textbook on building reliable distributed abstractions from broadcast to consensus with formal specifications
+- [Designing Data Intensive Applications - Martin Kleppmann](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) - Covers storage engines, replication, partitioning, transactions, and stream processing for modern data systems
+- [Replication: Theory and Practice](https://link.springer.com/book/10.1007/978-3-642-11294-2) - Comprehensive academic treatment of data replication techniques, consistency models, and fault tolerance
+- [Introduction to Reliable and Secure Distributed Programming](https://link.springer.com/book/10.1007/978-3-642-15260-3) - Textbook on building reliable distributed abstractions from broadcast to consensus with formal specifications
 
 ## Compilers
 
@@ -473,7 +473,7 @@ A curated collection of learning resources for systems programming, security, cr
 
 #### Books
 - [Algebra - Serge Lang](https://www.wiley.com/en-au/Abstract+Algebra,+3rd+Edition-p-9780471433347) - Comprehensive graduate algebra textbook covering groups, rings, modules, fields, and Galois theory
-- Topics in Algebra - Herstein - Classic undergraduate algebra text known for rigorous treatment of groups, rings, and field extensions
+- [Topics in Algebra - Herstein](https://www.amazon.com/Topics-Algebra-2nd-I-Herstein/dp/0471010901) - Classic undergraduate algebra text known for rigorous treatment of groups, rings, and field extensions
 
 ### Number Theory
 - [Elementary Number Theory: Primes, Congruences, and Secrets - William Stein](https://wstein.org/ent/ent.pdf) - Free textbook covering primes, modular arithmetic, and cryptographic applications using Sage
