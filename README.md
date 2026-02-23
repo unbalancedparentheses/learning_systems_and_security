@@ -2,6 +2,10 @@
 
 A curated collection of learning resources for systems programming, security, cryptography, and related topics.
 
+DAG-based consensus (Narwhal/Tusk from Sui, Mysticeti) represents the most significant architectural shift in distributed systems consensus since PBFT. By separating data availability from consensus ordering using directed acyclic graphs, these protocols achieve dramatically higher throughput while maintaining safety -- Mysticeti achieves sub-second finality. The CRDT evolution continues with Fugue (a new approach to collaborative text editing that avoids the interleaving anomalies of older CRDTs) and Loro (a practical Rust implementation). On the compilers/languages side, MLIR (Multi-Level Intermediate Representation) from LLVM is becoming the backbone for domain-specific compiler stacks, especially for ML accelerators.
+
+The security/verification entries show convergence: Verus (verified Rust using SMT solvers), Asterinas (verified OS kernel), and LLM4Decompile (using LLMs to decompile binary code) all point toward a future where formal methods and AI assistants make verified systems more practical.
+
 ## Table of Contents
 - [Assembly](#assembly)
 - [Reverse Engineering](#reverse-engineering)
